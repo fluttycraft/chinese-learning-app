@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "chinese": "你",
+    "pinyin": "Nǐ",
+    "burmese": "နင်/သင် (You)"
+  },
+  {
+    "id": 2,
+    "chinese": "我",
+    "pinyin": "Wǒ",
+    "burmese": "ငါ/ကျွန်တော်/ကျွန်မ (I / Me)"
+  },
+  {
+    "id": 3,
+    "chinese": "他/她",
+    "pinyin": "Tā / Tā",
+    "burmese": "သူ/သူမ (He / She)"
+  },
+  {
+    "id": 4,
+    "chinese": "们",
+    "pinyin": "Men",
+    "burmese": "တို့ (Plural Suffix)"
+  },
+  {
+    "id": 5,
+    "chinese": "很",
+    "pinyin": "Hěn",
+    "burmese": "အရမ်း (Very)"
+  },
+  {
+    "id": 6,
+    "chinese": "是",
+    "pinyin": "Shì",
+    "burmese": "က/ဟုတ် (Is / Yes)"
+  },
+  {
+    "id": 7,
+    "chinese": "吗",
+    "pinyin": "Ma",
+    "burmese": "လား (Question Particle)"
+  },
+  {
+    "id": 8,
+    "chinese": "知道",
+    "pinyin": "Zhīdào",
+    "burmese": "သိ (Know)"
+  },
+  {
+    "id": 9,
+    "chinese": "说 / 讲",
+    "pinyin": "Shuō / Jiǎng",
+    "burmese": "ပြော (Speak / Say)"
+  },
+  {
+    "id": 10,
+    "chinese": "叫",
+    "pinyin": "Jiào",
+    "burmese": "ခေါ် (Call / To be called)"
+  },
+  {
+    "id": 11,
+    "chinese": "懂",
+    "pinyin": "Dǒng",
+    "burmese": "နားလည် (Understand)"
+  },
+  {
+    "id": 12,
+    "chinese": "好",
+    "pinyin": "Hǎo",
+    "burmese": "ကောင်း (Good)"
+  },
+  {
+    "id": 13,
+    "chinese": "什么",
+    "pinyin": "Shénme",
+    "burmese": "ဘာလဲ (What)"
+  },
+  {
+    "id": 14,
+    "chinese": "不",
+    "pinyin": "Bù",
+    "burmese": "မ......ဘူး (No / Not)"
+  },
+  {
+    "id": 15,
+    "chinese": "名字",
+    "pinyin": "Míngzì",
+    "burmese": "နာမည် (Name)"
+  },
+  {
+    "id": 16,
+    "chinese": "缅甸",
+    "pinyin": "Miǎndiàn",
+    "burmese": "မြန်မာ (Myanmar)"
+  },
+  {
+    "id": 17,
+    "chinese": "人",
+    "pinyin": "Rén",
+    "burmese": "လူမျိုး (Person / Nationality)"
+  },
+  {
+    "id": 18,
+    "chinese": "中国",
+    "pinyin": "Zhōngguó",
+    "burmese": "တရုတ် (China)"
+  },
+  {
+    "id": 19,
+    "chinese": "话",
+    "pinyin": "Huà",
+    "burmese": "စကား (Word / Speech)"
+  },
+  {
+    "id": 20,
+    "chinese": "谁",
+    "pinyin": "Shuí",
+    "burmese": "ဘယ်သူ (Who)"
+  },
+  {
+    "id": 21,
+    "chinese": "的",
+    "pinyin": "De",
+    "burmese": "ရဲ့ (Of / 's Possessive)"
+  },
+  {
+    "id": 22,
+    "chinese": "工作",
+    "pinyin": "Gōngzuò",
+    "burmese": "အလုပ် (Work / Job)"
+  },
+  {
+    "id": 23,
+    "chinese": "高兴",
+    "pinyin": "Gāoxìng",
+    "burmese": "ဝမ်းသာ (Happy / Glad)"
+  },
+  {
+    "id": 24,
+    "chinese": "再见",
+    "pinyin": "Zàijiàn",
+    "burmese": "နောက်မှတွေ့မယ် (See you later / Goodbye)"
+  },
+  {
+    "id": 25,
+    "chinese": "可以",
+    "pinyin": "Kěyǐ",
+    "burmese": "ရတယ် (Can / Okay)"
+  },
+  {
+    "id": 26,
+    "chinese": "试看看",
+    "pinyin": "Shìkànkàn",
+    "burmese": "စမ်းကြည့်ကြည့်မယ် (Try / Have a try)"
+  },
+  {
+    "id": 27,
+    "chinese": "怎么",
+    "pinyin": "Zěnme",
+    "burmese": "ဘယ်လို (How)"
+  },
+  {
+    "id": 28,
+    "chinese": "员工",
+    "pinyin": "Yuángōng",
+    "burmese": "ဝန်ထမ်း (Staff / Employee)"
+  },
+  {
+    "id": 29,
+    "chinese": "大哥",
+    "pinyin": "Dàgē",
+    "burmese": "အစ်ကို (Big Brother)"
+  },
+  {
+    "id": 30,
+    "chinese": "大姐",
+    "pinyin": "Dàjiě",
+    "burmese": "အစ်မ (Big Sister)"
+  },
+  {
+    "id": 31,
+    "chinese": "小弟",
+    "pinyin": "Xiǎodì",
+    "burmese": "ညီလေး/မောင်လေး (Little Brother)"
+  },
+  {
+    "id": 32,
+    "chinese": "小妹",
+    "pinyin": "Xiǎomèi",
+    "burmese": "ညီမလေး (Little Sister)"
+  },
+  {
+    "id": 33,
+    "chinese": "经理",
+    "pinyin": "Jīnglǐ",
+    "burmese": "မန်နေဂျာ (Manager)"
+  },
+  {
+    "id": 34,
+    "chinese": "有/在",
+    "pinyin": "Yǒu / Zài",
+    "burmese": "ရှိ (Have / At)"
+  },
+  {
+    "id": 35,
+    "chinese": "没有 / 不在",
+    "pinyin": "Méiyǒu / Búzài",
+    "burmese": "မရှိဘူး (Don't have / Not at)"
+  },
+  {
+    "id": 36,
+    "chinese": "结婚",
+    "pinyin": "Jiéhūn",
+    "burmese": "မင်္ဂလာဆောင် (Wedding / Marry)"
+  },
+  {
+    "id": 37,
+    "chinese": "会",
+    "pinyin": "Huì",
+    "burmese": "တတ် (Can / Know how)"
+  },
+  {
+    "id": 38,
+    "chinese": "一下",
+    "pinyin": "Yíxià",
+    "burmese": "ခဏ (A while / A bit)"
+  },
+  {
+    "id": 39,
+    "chinese": "一点",
+    "pinyin": "Yìdiǎn",
+    "burmese": "နည်းနည်း (A little)"
+  },
+  {
+    "id": 40,
+    "chinese": "出",
+    "pinyin": "Chū",
+    "burmese": "ထွက် (Out / Exit)"
+  },
+  {
+    "id": 41,
+    "chinese": "去",
+    "pinyin": "Qù",
+    "burmese": "သွား (Go)"
+  },
+  {
+    "id": 42,
+    "chinese": "来",
+    "pinyin": "Lái",
+    "burmese": "လာ (Come)"
+  },
+  {
+    "id": 43,
+    "chinese": "了",
+    "pinyin": "Le",
+    "burmese": "ပြီးပြီးပြီ (Finished / Already)"
+  },
+  {
+    "id": 44,
+    "chinese": "多",
+    "pinyin": "Duō",
+    "burmese": "များ (Many)"
+  },
+  {
+    "id": 45,
+    "chinese": "少",
+    "pinyin": "Shǎo",
+    "burmese": "နည်း (Few)"
+  },
+  {
+    "id": 46,
+    "chinese": "久",
+    "pinyin": "Jiǔ",
+    "burmese": "ကြာ (Long time)"
+  },
+  {
+    "id": 47,
+    "chinese": "位，个",
+    "pinyin": "Wèi, Gè",
+    "burmese": "ယောက် (Person classifier)"
+  },
+  {
+    "id": 48,
+    "chinese": "坐",
+    "pinyin": "Zuò",
+    "burmese": "ထိုင် (Sit)"
+  },
+  {
+    "id": 49,
+    "chinese": "喝",
+    "pinyin": "Hē",
+    "burmese": "သောက် (Drink)"
+  },
+  {
+    "id": 50,
+    "chinese": "茶",
+    "pinyin": "Chá",
+    "burmese": "ရေနွေးကြမ်း (Tea)"
+  },
+  {
+    "id": 51,
+    "chinese": "可乐",
+    "pinyin": "Kělè",
+    "burmese": "ကိုလာ (Cola)"
+  },
+  {
+    "id": 52,
+    "chinese": "矿泉水",
+    "pinyin": "Kuàngquánshuǐ",
+    "burmese": "ရေသန့် (Mineral Water)"
+  },
+  {
+    "id": 53,
+    "chinese": "这个/这",
+    "pinyin": "Zhège / Zhè",
+    "burmese": "ဒီ (ဒီဟာ)/ ဒီ ... (This)"
+  },
+  {
+    "id": 54,
+    "chinese": "那个/那",
+    "pinyin": "Nàgè / Nà",
+    "burmese": "ဟိုဟာ / ဟို (That)"
+  },
+  {
+    "id": 55,
+    "chinese": "哪里",
+    "pinyin": "Nǎlǐ",
+    "burmese": "ဘယ်နား (Where)"
+  },
+  {
+    "id": 56,
+    "chinese": "对",
+    "pinyin": "Duì",
+    "burmese": "မှန် (Right / Correct)"
+  },
+  {
+    "id": 57,
+    "chinese": "错",
+    "pinyin": "Cuò",
+    "burmese": "မှား (Wrong)"
+  },
+  {
+    "id": 58,
+    "chinese": "工厂",
+    "pinyin": "Gōngchǎng",
+    "burmese": "စက်ရုံ (Factory)"
+  },
+  {
+    "id": 59,
+    "chinese": "公司",
+    "pinyin": "Gōngsī",
+    "burmese": "ကုမ္ပဏီ (Company)"
+  },
+  {
+    "id": 60,
+    "chinese": "老板",
+    "pinyin": "Lǎobǎn",
+    "burmese": "သူဌေး (Boss)"
+  },
+  {
+    "id": 61,
+    "chinese": "英语",
+    "pinyin": "Yīngyǔ",
+    "burmese": "အင်္ဂလိပ်စကား (English Language)"
+  },
+  {
+    "id": 62,
+    "chinese": "英文",
+    "pinyin": "Yīngwén",
+    "burmese": "အင်္ဂလိပ်စာ (English Text)"
+  },
+  {
+    "id": 63,
+    "chinese": "进",
+    "pinyin": "Jìn",
+    "burmese": "ဝင် (Enter)"
+  },
+  {
+    "id": 64,
+    "chinese": "开",
+    "pinyin": "Kāi",
+    "burmese": "ဖွင့် (Open)"
+  },
+  {
+    "id": 65,
+    "chinese": "关",
+    "pinyin": "Guān",
+    "burmese": "ပိတ် (Close)"
+  },
+  {
+    "id": 66,
+    "chinese": "推",
+    "pinyin": "Tuī",
+    "burmese": "တွန်း (Push)"
+  },
+  {
+    "id": 67,
+    "chinese": "拉",
+    "pinyin": "Lā",
+    "burmese": "ဆွဲ (Pull)"
+  },
+  {
+    "id": 68,
+    "chinese": "站 / 停",
+    "pinyin": "Zhàn / Tíng",
+    "burmese": "မတ်တပ်ရပ်/ရပ် (Stand / Stop)"
+  },
+  {
+    "id": 69,
+    "chinese": "爱",
+    "pinyin": "Ài",
+    "burmese": "ချစ်/ကြိုက် (Love / Like)"
+  },
+  {
+    "id": 70,
+    "chinese": "门",
+    "pinyin": "Mén",
+    "burmese": "တံခါး (Door)"
+  },
+  {
+    "id": 71,
+    "chinese": "拿",
+    "pinyin": "Ná",
+    "burmese": "ယူ (Take)"
+  },
+  {
+    "id": 72,
+    "chinese": "做",
+    "pinyin": "Zuò",
+    "burmese": "လုပ် (Do)"
+  },
+  {
+    "id": 73,
+    "chinese": "问",
+    "pinyin": "Wèn",
+    "burmese": "မေး (Ask)"
+  },
+  {
+    "id": 74,
+    "chinese": "给",
+    "pinyin": "Gěi",
+    "burmese": "ပေး (Give)"
+  },
+  {
+    "id": 75,
+    "chinese": "开车",
+    "pinyin": "Kāichē",
+    "burmese": "ကားမောင်း (Drive Car)"
+  },
+  {
+    "id": 76,
+    "chinese": "买",
+    "pinyin": "Mǎi",
+    "burmese": "ဝယ် (Buy)"
+  },
+  {
+    "id": 77,
+    "chinese": "卖",
+    "pinyin": "Mài",
+    "burmese": "ရောင်း (Sell)"
+  },
+  {
+    "id": 78,
+    "chinese": "上",
+    "pinyin": "Shàng",
+    "burmese": "တက် (Up / Go up)"
+  },
+  {
+    "id": 79,
+    "chinese": "下",
+    "pinyin": "Xià",
+    "burmese": "ဆင်း (Down / Go down)"
+  },
+  {
+    "id": 80,
+    "chinese": "做事 / 工作 / 上班",
+    "pinyin": "Zuòshì / Gōngzuò / Shàngbān",
+    "burmese": "အလုပ်လုပ် (Work / Job / Go to work)"
+  },
+  {
+    "id": 81,
+    "chinese": "借给",
+    "pinyin": "Jiègěi",
+    "burmese": "ချေးပေး (Lend to)"
+  },
+  {
+    "id": 82,
+    "chinese": "吃",
+    "pinyin": "Chī",
+    "burmese": "စား (Eat)"
+  },
+  {
+    "id": 83,
+    "chinese": "钱",
+    "pinyin": "Qián",
+    "burmese": "ပိုက်ဆံ (Money)"
+  },
+  {
+    "id": 84,
+    "chinese": "送",
+    "pinyin": "Sòng",
+    "burmese": "ပို့ (Send / Deliver)"
+  },
+  {
+    "id": 85,
+    "chinese": "读",
+    "pinyin": "Dú",
+    "burmese": "ဖတ် (Read)"
+  },
+  {
+    "id": 86,
+    "chinese": "写",
+    "pinyin": "Xiě",
+    "burmese": "ရေး (Write)"
+  },
+  {
+    "id": 87,
+    "chinese": "放",
+    "pinyin": "Fàng",
+    "burmese": "ထား (Put / Place)"
+  },
+  {
+    "id": 88,
+    "chinese": "菜",
+    "pinyin": "Cài",
+    "burmese": "ဟင်း (Dish / Vegetable)"
+  },
+  {
+    "id": 89,
+    "chinese": "缅文",
+    "pinyin": "Miǎnwén",
+    "burmese": "မြန်မာစာ (Myanmar Text)"
+  },
+  {
+    "id": 90,
+    "chinese": "天气 / 季节",
+    "pinyin": "Tiānqì / Jìjié",
+    "burmese": "ရာသီဥတု (Weather / Season)"
+  },
+  {
+    "id": 91,
+    "chinese": "雨",
+    "pinyin": "Yǔ",
+    "burmese": "မိုး (Rain)"
+  },
+  {
+    "id": 92,
+    "chinese": "热",
+    "pinyin": "Rè",
+    "burmese": "ပူ (Hot)"
+  },
+  {
+    "id": 93,
+    "chinese": "冷",
+    "pinyin": "Lěng",
+    "burmese": "အေး (Cold)"
+  },
+  {
+    "id": 94,
+    "chinese": "下 (雨)",
+    "pinyin": "Xià (yǔ)",
+    "burmese": "မိုးရွာ (Rain falls)"
+  },
+  {
+    "id": 95,
+    "chinese": "住",
+    "pinyin": "Zhù",
+    "burmese": "နေ (Live / Stay)"
+  },
+  {
+    "id": 96,
+    "chinese": "在",
+    "pinyin": "Zài",
+    "burmese": "မှာ (At)"
+  },
+  {
+    "id": 97,
+    "chinese": "回",
+    "pinyin": "Huí",
+    "burmese": "ပြန် (Return)"
+  },
+  {
+    "id": 98,
+    "chinese": "玩",
+    "pinyin": "Wán",
+    "burmese": "လည် (Play / Visit)"
+  },
+  {
+    "id": 99,
+    "chinese": "要",
+    "pinyin": "Yào",
+    "burmese": "မယ် (Want / Will)"
+  },
+  {
+    "id": 100,
+    "chinese": "仰光",
+    "pinyin": "Yǎngguāng",
+    "burmese": "ရန်ကုန် (Yangon)"
+  },
+  {
+    "id": 101,
+    "chinese": "曼德勒",
+    "pinyin": "Màndélè",
+    "burmese": "မန္တလေး (Mandalay)"
+  },
+  {
+    "id": 102,
+    "chinese": "一样 / 一起",
+    "pinyin": "Yíyàng / Yìqǐ",
+    "burmese": "အတူတူ (Same / Together)"
+  },
+  {
+    "id": 103,
+    "chinese": "外面",
+    "pinyin": "Wàimiàn",
+    "burmese": "အပြင်မှာ (Outside)"
+  },
+  {
+    "id": 104,
+    "chinese": "里面",
+    "pinyin": "Lǐmiàn",
+    "burmese": "အထဲမှာ (Inside)"
+  },
+  {
+    "id": 105,
+    "chinese": "年 / 年份",
+    "pinyin": "Nián / Niánfèn",
+    "burmese": "နှစ်/ခုနှစ် (Year)"
+  },
+  {
+    "id": 106,
+    "chinese": "月 / 月份",
+    "pinyin": "Yuè / Yuèfèn",
+    "burmese": "လ/လပိုင်း (Month)"
+  },
+  {
+    "id": 107,
+    "chinese": "天 / 日 (号)",
+    "pinyin": "Tiān / Rì (Hào)",
+    "burmese": "ရက်/ရက်နေ့ (Day / Date)"
+  },
+  {
+    "id": 108,
+    "chinese": "今天",
+    "pinyin": "Jīntiān",
+    "burmese": "ဒီနေ့ (Today)"
+  }
+]
