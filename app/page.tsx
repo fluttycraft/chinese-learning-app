@@ -50,10 +50,6 @@ export default function ChineseLearningApp() {
         {/* Header */}
         <header className="sticky top-0 z-30 bg-[#0f172a]/80 backdrop-blur-md pt-4 pb-6 mb-2">
           <div className="flex justify-between items-center mb-4 gap-2">
-            <h1 className="text-xl font-bold text-slate-100 tracking-wide shrink-0">
-              Practice
-            </h1>
-
             <div className="flex items-center gap-2">
               {/* Visibility Toggle Button */}
               <button
