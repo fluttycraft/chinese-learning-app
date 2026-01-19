@@ -648,6 +648,54 @@
     "burmese": "ဒီနေ့ (Today)"
   },
   {
+    "id": 109,
+    "chinese": "明天",
+    "pinyin": "Míngtiān",
+    "burmese": "မနက်ဖြန် (Tomorrow)"
+  },
+  {
+    "id": 110,
+    "chinese": "后天",
+    "pinyin": "Hòutiān",
+    "burmese": "တဘက်ခါ (The day after tomorrow)"
+  },
+  {
+    "id": 111,
+    "chinese": "昨天",
+    "pinyin": "Zuótiān",
+    "burmese": "မနေ့ (Yesterday)"
+  },
+  {
+    "id": 112,
+    "chinese": "今年",
+    "pinyin": "Jīnnián",
+    "burmese": "ဒီနှစ် (This year)"
+  },
+  {
+    "id": 113,
+    "chinese": "几",
+    "pinyin": "Jǐ",
+    "burmese": "ဘယ်နှ (How many)"
+  },
+  {
+    "id": 114,
+    "chinese": "大",
+    "pinyin": "Dà",
+    "burmese": "ကြီး (Big)"
+  },
+  {
+    "id": 115,
+    "chinese": "小",
+    "pinyin": "Xiǎo",
+    "burmese": "သေး (Small)"
+  },
+  {
+    "id": 116,
+    "chinese": "家",
+    "pinyin": "Jiā",
+    "burmese": "အိမ် (Home)"
+  }
+  {
     "id": 10001,
     "chinese": "爱",
     "pinyin": "ài",
