@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import RegisterServiceWorker from "./RegisterServiceWorker";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000"
+    process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000",
   ),
   title: "Khai-Pattern-Hub",
   description: "Learn English with Khai - Your AI Language Companion",
@@ -216,6 +217,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        {/* Register the service worker for PWA */}
+        <RegisterServiceWorker />
         {children}
       </body>
     </html>

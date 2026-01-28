@@ -81,7 +81,7 @@ export default function ChineseLearningApp() {
                     >
                       {tab}
                     </button>
-                  )
+                  ),
                 )}
               </div>
             </div>
