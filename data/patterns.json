@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "hsk_level": 1,
+    "pattern": "我是___。",
+    "pinyin": "Wǒ shì ___.",
+    "myanmar": "ကျွန်တော်/ကျွန်မ ___ ဖြစ်ပါတယ်။ (မိမိကိုယ်ကို မိတ်ဆက်သောအခါ သုံးသည်)",
+    "structure": "我 (ကျွန်တော်) + 是 (ဖြစ်သည်) + နာမ်/ရာထူး",
+    "examples": [
+      {
+        "chinese": "我是学生。",
+        "pinyin": "Wǒ shì xuésheng.",
+        "myanmar": "ကျွန်တော် ကျောင်းသားဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "我是老师。",
+        "pinyin": "Wǒ shì lǎoshī.",
+        "myanmar": "ကျွန်မ ဆရာမဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "我是中国人。",
+        "pinyin": "Wǒ shì Zhōngguórén.",
+        "myanmar": "ကျွန်တော် တရုတ်လူမျိုးဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "hsk_level": 1,
+    "pattern": "你好！",
+    "pinyin": "Nǐ hǎo!",
+    "myanmar": "မင်္ဂလာပါ! (တစ်ယောက်ကို နှုတ်ဆက်သောအခါ သုံးသည်)",
+    "structure": "你 (မင်း/သင်) + 好 (ကောင်းသော)",
+    "examples": [
+      {
+        "chinese": "你好！我叫小明。",
+        "pinyin": "Nǐ hǎo! Wǒ jiào Xiǎomíng.",
+        "myanmar": "မင်္ဂလာပါ! ကျွန်တော် ရှောင်မင်းလို့ ခေါ်ပါတယ်။"
+      },
+      {
+        "chinese": "老师好！",
+        "pinyin": "Lǎoshī hǎo!",
+        "myanmar": "ဆရာ မင်္ဂလာပါ!"
+      },
+      {
+        "chinese": "大家好！",
+        "pinyin": "Dàjiā hǎo!",
+        "myanmar": "အားလုံး မင်္ဂလာပါ!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "hsk_level": 1,
+    "pattern": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "myanmar": "မင်းနာမည် ဘယ်လိုခေါ်လဲ? (နာမည်မေးသောအခါ သုံးသည်)",
+    "structure": "你 + 叫 (ခေါ်သည်) + 什么 (ဘာ) + 名字 (နာမည်)",
+    "examples": [
+      {
+        "chinese": "你叫什么名字？我叫李明。",
+        "pinyin": "Nǐ jiào shénme míngzi? Wǒ jiào Lǐ Míng.",
+        "myanmar": "မင်းနာမည် ဘယ်လိုခေါ်လဲ? ကျွန်တော် လီမင်းလို့ ခေါ်ပါတယ်။"
+      },
+      {
+        "chinese": "他叫什么名字？",
+        "pinyin": "Tā jiào shénme míngzi?",
+        "myanmar": "သူ့နာမည် ဘယ်လိုခေါ်လဲ?"
+      },
+      {
+        "chinese": "她叫王芳。",
+        "pinyin": "Tā jiào Wáng Fāng.",
+        "myanmar": "သူမ ဝမ်ဖန်းလို့ ခေါ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "hsk_level": 1,
+    "pattern": "这是___。",
+    "pinyin": "Zhè shì ___.",
+    "myanmar": "ဒါ ___ ဖြစ်ပါတယ်။ (နီးနီးရှိသောအရာကို ညွှန်ပြသောအခါ သုံးသည်)",
+    "structure": "这 (ဒီ/ဒါ) + 是 + နာမ်",
+    "examples": [
+      {
+        "chinese": "这是我的书。",
+        "pinyin": "Zhè shì wǒ de shū.",
+        "myanmar": "ဒါ ကျွန်တော့်စာအုပ်ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "这是我的朋友。",
+        "pinyin": "Zhè shì wǒ de péngyou.",
+        "myanmar": "ဒါ ကျွန်တော့်သူငယ်ချင်းဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "这是什么？",
+        "pinyin": "Zhè shì shénme?",
+        "myanmar": "ဒါ ဘာလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "hsk_level": 1,
+    "pattern": "那是___。",
+    "pinyin": "Nà shì ___.",
+    "myanmar": "ဟိုဟာ ___ ဖြစ်ပါတယ်။ (ဝေးဝေးရှိသောအရာကို ညွှန်ပြသောအခါ သုံးသည်)",
+    "structure": "那 (ဟို/ထို) + 是 + နာမ်",
+    "examples": [
+      {
+        "chinese": "那是我的家。",
+        "pinyin": "Nà shì wǒ de jiā.",
+        "myanmar": "ဟိုဟာ ကျွန်တော့်အိမ်ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "那是什么？",
+        "pinyin": "Nà shì shénme?",
+        "myanmar": "ဟိုဟာ ဘာလဲ?"
+      },
+      {
+        "chinese": "那是北京大学。",
+        "pinyin": "Nà shì Běijīng Dàxué.",
+        "myanmar": "ဟိုဟာ ပေကျင်းတက္ကသိုလ်ဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "hsk_level": 1,
+    "pattern": "我有___。",
+    "pinyin": "Wǒ yǒu ___.",
+    "myanmar": "ကျွန်တော် ___ ရှိပါတယ်။ (ပိုင်ဆိုင်မှု ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "我 + 有 (ရှိသည်) + နာမ်",
+    "examples": [
+      {
+        "chinese": "我有一个苹果。",
+        "pinyin": "Wǒ yǒu yī gè píngguǒ.",
+        "myanmar": "ကျွန်တော် ပန်းသီးတစ်လုံး ရှိပါတယ်။"
+      },
+      {
+        "chinese": "我有一个妹妹。",
+        "pinyin": "Wǒ yǒu yī gè mèimei.",
+        "myanmar": "ကျွန်တော် ညီမတစ်ယောက် ရှိပါတယ်။"
+      },
+      {
+        "chinese": "你有书吗？",
+        "pinyin": "Nǐ yǒu shū ma?",
+        "myanmar": "မင်းမှာ စာအုပ် ရှိလား?"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "hsk_level": 1,
+    "pattern": "我没有___。",
+    "pinyin": "Wǒ méiyǒu ___.",
+    "myanmar": "ကျွန်တော် ___ မရှိဘူး။ (မပိုင်ဆိုင်ကြောင်း ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "我 + 没有 (မရှိ) + နာမ်",
+    "examples": [
+      {
+        "chinese": "我没有钱。",
+        "pinyin": "Wǒ méiyǒu qián.",
+        "myanmar": "ကျွန်တော် ငွေမရှိဘူး။"
+      },
+      {
+        "chinese": "我没有时间。",
+        "pinyin": "Wǒ méiyǒu shíjiān.",
+        "myanmar": "ကျွန်တော် အချိန်မရှိဘူး။"
+      },
+      {
+        "chinese": "他没有手机。",
+        "pinyin": "Tā méiyǒu shǒujī.",
+        "myanmar": "သူ ဖုန်းမရှိဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "hsk_level": 1,
+    "pattern": "___在哪里？",
+    "pinyin": "___ zài nǎlǐ?",
+    "myanmar": "___ ဘယ်မှာ ရှိလဲ? (နေရာမေးသောအခါ သုံးသည်)",
+    "structure": "နာမ် + 在 (ရှိသည်) + 哪里 (ဘယ်မှာ)",
+    "examples": [
+      {
+        "chinese": "厕所在哪里？",
+        "pinyin": "Cèsuǒ zài nǎlǐ?",
+        "myanmar": "အိမ်သာ ဘယ်မှာ ရှိလဲ?"
+      },
+      {
+        "chinese": "你在哪里？",
+        "pinyin": "Nǐ zài nǎlǐ?",
+        "myanmar": "မင်း ဘယ်မှာ ရှိလဲ?"
+      },
+      {
+        "chinese": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "myanmar": "စာအုပ် စားပွဲပေါ်မှာ ရှိပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "hsk_level": 1,
+    "pattern": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "myanmar": "အခု ဘယ်နှစ်နာရီ ရှိပြီလဲ? (အချိန်မေးသောအခါ သုံးသည်)",
+    "structure": "现在 (အခု) + 几 (ဘယ်နှစ်) + 点 (နာရီ)",
+    "examples": [
+      {
+        "chinese": "现在几点？现在三点。",
+        "pinyin": "Xiànzài jǐ diǎn? Xiànzài sān diǎn.",
+        "myanmar": "အခု ဘယ်နှစ်နာရီ ရှိပြီလဲ? အခု သုံးနာရီ ရှိပြီ။"
+      },
+      {
+        "chinese": "现在八点半。",
+        "pinyin": "Xiànzài bā diǎn bàn.",
+        "myanmar": "အခု ရှစ်နာရီခွဲ ရှိပြီ။"
+      },
+      {
+        "chinese": "现在几点了？",
+        "pinyin": "Xiànzài jǐ diǎn le?",
+        "myanmar": "အခု ဘယ်နှစ်နာရီ ရှိပြီလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "hsk_level": 1,
+    "pattern": "今天几号？",
+    "pinyin": "Jīntiān jǐ hào?",
+    "myanmar": "ဒီနေ့ ဘယ်ရက် ဖြစ်လဲ? (ရက်မေးသောအခါ သုံးသည်)",
+    "structure": "今天 (ဒီနေ့) + 几 + 号 (ရက်)",
+    "examples": [
+      {
+        "chinese": "今天几号？今天十五号。",
+        "pinyin": "Jīntiān jǐ hào? Jīntiān shíwǔ hào.",
+        "myanmar": "ဒီနေ့ ဘယ်ရက် ဖြစ်လဲ? ဒီနေ့ ၁၅ ရက်ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "今天是星期几？",
+        "pinyin": "Jīntiān shì xīngqī jǐ?",
+        "myanmar": "ဒီနေ့ ဘာနေ့ ဖြစ်လဲ?"
+      },
+      {
+        "chinese": "今天是星期一。",
+        "pinyin": "Jīntiān shì xīngqīyī.",
+        "myanmar": "ဒီနေ့ တနင်္လာနေ့ ဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "hsk_level": 1,
+    "pattern": "___多少钱？",
+    "pinyin": "___ duōshao qián?",
+    "myanmar": "___ ဘယ်လောက်ကျလဲ? (ဈေးနှုန်းမေးသောအခါ သုံးသည်)",
+    "structure": "နာမ် + 多少 (ဘယ်လောက်) + 钱 (ငွေ)",
+    "examples": [
+      {
+        "chinese": "这个多少钱？",
+        "pinyin": "Zhège duōshao qián?",
+        "myanmar": "ဒါ ဘယ်လောက်ကျလဲ?"
+      },
+      {
+        "chinese": "苹果多少钱一斤？",
+        "pinyin": "Píngguǒ duōshao qián yī jīn?",
+        "myanmar": "ပန်းသီး တစ်ကျပ်သားကို ဘယ်လောက်ကျလဲ?"
+      },
+      {
+        "chinese": "五块钱。",
+        "pinyin": "Wǔ kuài qián.",
+        "myanmar": "ငါးယွမ်ကျပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "hsk_level": 1,
+    "pattern": "我想___。",
+    "pinyin": "Wǒ xiǎng ___.",
+    "myanmar": "ကျွန်တော် ___ ချင်ပါတယ်။ (ဆန္ဒဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "我 + 想 (ချင်သည်) + ကြိယာ/နာမ်",
+    "examples": [
+      {
+        "chinese": "我想喝水。",
+        "pinyin": "Wǒ xiǎng hē shuǐ.",
+        "myanmar": "ကျွန်တော် ရေသောက်ချင်ပါတယ်။"
+      },
+      {
+        "chinese": "我想吃米饭。",
+        "pinyin": "Wǒ xiǎng chī mǐfàn.",
+        "myanmar": "ကျွန်တော် ထမင်းစားချင်ပါတယ်။"
+      },
+      {
+        "chinese": "我想去北京。",
+        "pinyin": "Wǒ xiǎng qù Běijīng.",
+        "myanmar": "ကျွန်တော် ပေကျင်းသွားချင်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "hsk_level": 1,
+    "pattern": "我不___。",
+    "pinyin": "Wǒ bù ___.",
+    "myanmar": "ကျွန်တော် ___ မ...ဘူး။ (ငြင်းဆိုသောအခါ သုံးသည်)",
+    "structure": "我 + 不 (မ) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "我不喜欢吃鱼。",
+        "pinyin": "Wǒ bù xǐhuan chī yú.",
+        "myanmar": "ကျွန်တော် ငါးစားတာ မကြိုက်ဘူး။"
+      },
+      {
+        "chinese": "我不是学生。",
+        "pinyin": "Wǒ bú shì xuésheng.",
+        "myanmar": "ကျွန်တော် ကျောင်းသား မဟုတ်ဘူး။"
+      },
+      {
+        "chinese": "我不去。",
+        "pinyin": "Wǒ bú qù.",
+        "myanmar": "ကျွန်တော် မသွားဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "hsk_level": 1,
+    "pattern": "___吗？",
+    "pinyin": "___ ma?",
+    "myanmar": "___ လား? (Yes/No မေးခွန်း မေးသောအခါ ဝါကျ အဆုံးတွင် 吗 ထည့်သည်)",
+    "structure": "ဝါကျ + 吗 (မေးခွန်းပုဒ်မ)",
+    "examples": [
+      {
+        "chinese": "你是学生吗？",
+        "pinyin": "Nǐ shì xuésheng ma?",
+        "myanmar": "မင်း ကျောင်းသား ဖြစ်လား?"
+      },
+      {
+        "chinese": "你吃饭了吗？",
+        "pinyin": "Nǐ chīfàn le ma?",
+        "myanmar": "မင်း ထမင်းစားပြီးပြီလား?"
+      },
+      {
+        "chinese": "你好吗？",
+        "pinyin": "Nǐ hǎo ma?",
+        "myanmar": "မင်း ကောင်းနေလား?"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "hsk_level": 1,
+    "pattern": "___呢？",
+    "pinyin": "___ ne?",
+    "myanmar": "___ ကောရော? (ပြန်မေးသောအခါ သုံးသည်)",
+    "structure": "နာမ် + 呢 (ကောရော?)",
+    "examples": [
+      {
+        "chinese": "我很好，你呢？",
+        "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+        "myanmar": "ကျွန်တော် ကောင်းပါတယ်၊ မင်းကောရော?"
+      },
+      {
+        "chinese": "我是学生，你呢？",
+        "pinyin": "Wǒ shì xuésheng, nǐ ne?",
+        "myanmar": "ကျွန်တော် ကျောင်းသားဖြစ်ပါတယ်၊ မင်းကောရော?"
+      },
+      {
+        "chinese": "他去了，你呢？",
+        "pinyin": "Tā qù le, nǐ ne?",
+        "myanmar": "သူ သွားပြီ၊ မင်းကောရော?"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "hsk_level": 1,
+    "pattern": "我喜欢___。",
+    "pinyin": "Wǒ xǐhuan ___.",
+    "myanmar": "ကျွန်တော် ___ ကြိုက်ပါတယ်။ (နှစ်သက်မှု ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "我 + 喜欢 (ကြိုက်သည်) + နာမ်/ကြိယာ",
+    "examples": [
+      {
+        "chinese": "我喜欢看电影。",
+        "pinyin": "Wǒ xǐhuan kàn diànyǐng.",
+        "myanmar": "ကျွန်တော် ရုပ်ရှင်ကြည့်တာ ကြိုက်ပါတယ်။"
+      },
+      {
+        "chinese": "我喜欢猫。",
+        "pinyin": "Wǒ xǐhuan māo.",
+        "myanmar": "ကျွန်တော် ကြောင်ကို ကြိုက်ပါတယ်။"
+      },
+      {
+        "chinese": "你喜欢什么？",
+        "pinyin": "Nǐ xǐhuan shénme?",
+        "myanmar": "မင်း ဘာကြိုက်လဲ?"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "hsk_level": 1,
+    "pattern": "___很___。",
+    "pinyin": "___ hěn ___.",
+    "myanmar": "___ အလွန် ___ ပါတယ်။ (ဂုဏ်သတ္တိ ဖော်ပြသောအခါ 很 ကို ကြားထဲ ထည့်သည်)",
+    "structure": "နာမ် + 很 (အလွန်) + နာမဝိသေသန",
+    "examples": [
+      {
+        "chinese": "她很漂亮。",
+        "pinyin": "Tā hěn piàoliang.",
+        "myanmar": "သူမ အလွန်လှပါတယ်။"
+      },
+      {
+        "chinese": "今天很热。",
+        "pinyin": "Jīntiān hěn rè.",
+        "myanmar": "ဒီနေ့ အလွန်ပူပါတယ်။"
+      },
+      {
+        "chinese": "这个苹果很好吃。",
+        "pinyin": "Zhège píngguǒ hěn hǎochī.",
+        "myanmar": "ဒီပန်းသီး အလွန်အရသာကောင်းပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "hsk_level": 1,
+    "pattern": "请问___？",
+    "pinyin": "Qǐngwèn ___?",
+    "myanmar": "ကျေးဇူးပြု၍ ___ မေးပါရစေ? (ယဉ်ကျေးစွာ မေးသောအခါ သုံးသည်)",
+    "structure": "请问 (ကျေးဇူးပြု၍ မေးပါရစေ) + မေးခွန်း",
+    "examples": [
+      {
+        "chinese": "请问，火车站在哪里？",
+        "pinyin": "Qǐngwèn, huǒchēzhàn zài nǎlǐ?",
+        "myanmar": "ကျေးဇူးပြု၍ မေးပါရစေ၊ ရထားဘူတာ ဘယ်မှာ ရှိလဲ?"
+      },
+      {
+        "chinese": "请问，你叫什么名字？",
+        "pinyin": "Qǐngwèn, nǐ jiào shénme míngzi?",
+        "myanmar": "ကျေးဇူးပြု၍ မေးပါရစေ၊ မင်းနာမည် ဘယ်လိုခေါ်လဲ?"
+      },
+      {
+        "chinese": "请问，这个多少钱？",
+        "pinyin": "Qǐngwèn, zhège duōshao qián?",
+        "myanmar": "ကျေးဇူးပြု၍ မေးပါရစေ၊ ဒါ ဘယ်လောက်ကျလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "hsk_level": 1,
+    "pattern": "谢谢！不客气！",
+    "pinyin": "Xièxie! Bú kèqi!",
+    "myanmar": "ကျေးဇူးတင်ပါတယ်! အားမနာပါနဲ့! (ကျေးဇူးတင်ခြင်းနှင့် ဖြေကြားခြင်း)",
+    "structure": "谢谢 (ကျေးဇူးတင်သည်) → 不客气 (အားမနာပါနဲ့)",
+    "examples": [
+      {
+        "chinese": "谢谢你的帮助！不客气！",
+        "pinyin": "Xièxie nǐ de bāngzhù! Bú kèqi!",
+        "myanmar": "ကူညီတဲ့အတွက် ကျေးဇူးတင်ပါတယ်! အားမနာပါနဲ့!"
+      },
+      {
+        "chinese": "谢谢老师！不客气！",
+        "pinyin": "Xièxie lǎoshī! Bú kèqi!",
+        "myanmar": "ဆရာ ကျေးဇူးတင်ပါတယ်! အားမနာပါနဲ့!"
+      },
+      {
+        "chinese": "多谢！",
+        "pinyin": "Duōxiè!",
+        "myanmar": "များစွာ ကျေးဇူးတင်ပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "hsk_level": 1,
+    "pattern": "对不起！没关系！",
+    "pinyin": "Duìbuqǐ! Méi guānxi!",
+    "myanmar": "တောင်းပန်ပါတယ်! ကိစ္စမရှိပါဘူး! (တောင်းပန်ခြင်းနှင့် ဖြေကြားခြင်း)",
+    "structure": "对不起 (တောင်းပန်သည်) → 没关系 (ကိစ္စမရှိ)",
+    "examples": [
+      {
+        "chinese": "对不起，我来晚了！没关系！",
+        "pinyin": "Duìbuqǐ, wǒ lái wǎn le! Méi guānxi!",
+        "myanmar": "တောင်းပန်ပါတယ်၊ ကျွန်တော် နောက်ကျပြီ! ကိစ္စမရှိပါဘူး!"
+      },
+      {
+        "chinese": "对不起，我不知道。",
+        "pinyin": "Duìbuqǐ, wǒ bù zhīdào.",
+        "myanmar": "တောင်းပန်ပါတယ်၊ ကျွန်တော် မသိဘူး။"
+      },
+      {
+        "chinese": "没关系，没事的。",
+        "pinyin": "Méi guānxi, méishì de.",
+        "myanmar": "ကိစ္စမရှိပါဘူး၊ ဘာမှမဖြစ်ပါဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "hsk_level": 1,
+    "pattern": "再见！",
+    "pinyin": "Zàijiàn!",
+    "myanmar": "ဂုဒ်ဘိုင်! (နှုတ်ဆက်ကြသောအခါ သုံးသည်)",
+    "structure": "再 (ထပ်မံ) + 见 (တွေ့သည်) = နောက်မှ တွေ့မယ်",
+    "examples": [
+      {
+        "chinese": "再见！明天见！",
+        "pinyin": "Zàijiàn! Míngtiān jiàn!",
+        "myanmar": "ဂုဒ်ဘိုင်! မနက်ဖြန် တွေ့မယ်!"
+      },
+      {
+        "chinese": "老师再见！",
+        "pinyin": "Lǎoshī zàijiàn!",
+        "myanmar": "ဆရာ ဂုဒ်ဘိုင်!"
+      },
+      {
+        "chinese": "拜拜！",
+        "pinyin": "Bāibāi!",
+        "myanmar": "ဘိုင်ဘိုင်! (ပိုသဘာဝကျသော နှုတ်ဆက်ပုံ)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "hsk_level": 1,
+    "pattern": "我会___。",
+    "pinyin": "Wǒ huì ___.",
+    "myanmar": "ကျွန်တော် ___ တတ်ပါတယ်။ (ကျွမ်းကျင်မှု ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "我 + 会 (တတ်သည်) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "我会说汉语。",
+        "pinyin": "Wǒ huì shuō Hànyǔ.",
+        "myanmar": "ကျွန်တော် တရုတ်ဘာသာ ပြောတတ်ပါတယ်။"
+      },
+      {
+        "chinese": "我会开车。",
+        "pinyin": "Wǒ huì kāi chē.",
+        "myanmar": "ကျွန်တော် ကားမောင်းတတ်ပါတယ်။"
+      },
+      {
+        "chinese": "你会游泳吗？",
+        "pinyin": "Nǐ huì yóuyǒng ma?",
+        "myanmar": "မင်း ရေကူးတတ်လား?"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "hsk_level": 1,
+    "pattern": "___在___。",
+    "pinyin": "___ zài ___.",
+    "myanmar": "___ ___ မှာ ရှိပါတယ်။ (တည်နေရာ ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "နာမ် + 在 (ရှိသည်) + နေရာ",
+    "examples": [
+      {
+        "chinese": "我在家。",
+        "pinyin": "Wǒ zài jiā.",
+        "myanmar": "ကျွန်တော် အိမ်မှာ ရှိပါတယ်။"
+      },
+      {
+        "chinese": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "myanmar": "စာအုပ် စားပွဲပေါ်မှာ ရှိပါတယ်။"
+      },
+      {
+        "chinese": "猫在哪里？猫在床下面。",
+        "pinyin": "Māo zài nǎlǐ? Māo zài chuáng xiàmiàn.",
+        "myanmar": "ကြောင် ဘယ်မှာ ရှိလဲ? ကြောင် အိပ်ရာအောက်မှာ ရှိပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "hsk_level": 1,
+    "pattern": "我去___。",
+    "pinyin": "Wǒ qù ___.",
+    "myanmar": "ကျွန်တော် ___ သွားပါမယ်/သွားပါတယ်။ (သွားမည့်နေရာ ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "我 + 去 (သွားသည်) + နေရာ",
+    "examples": [
+      {
+        "chinese": "我去学校。",
+        "pinyin": "Wǒ qù xuéxiào.",
+        "myanmar": "ကျွန်တော် ကျောင်းသွားပါမယ်။"
+      },
+      {
+        "chinese": "我去买东西。",
+        "pinyin": "Wǒ qù mǎi dōngxi.",
+        "myanmar": "ကျွန်တော် ဈေးဝယ်သွားပါမယ်။"
+      },
+      {
+        "chinese": "你去哪里？",
+        "pinyin": "Nǐ qù nǎlǐ?",
+        "myanmar": "မင်း ဘယ်သွားမလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "hsk_level": 1,
+    "pattern": "我来___。",
+    "pinyin": "Wǒ lái ___.",
+    "myanmar": "ကျွန်တော် ___ မှ လာပါတယ်/လာပါမယ်။ (လာသောနေရာ ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "我 + 来 (လာသည်) + နေရာ",
+    "examples": [
+      {
+        "chinese": "我来自缅甸。",
+        "pinyin": "Wǒ lái zì Miǎndiàn.",
+        "myanmar": "ကျွန်တော် မြန်မာနိုင်ငံမှ လာပါတယ်။"
+      },
+      {
+        "chinese": "我来帮你。",
+        "pinyin": "Wǒ lái bāng nǐ.",
+        "myanmar": "ကျွန်တော် မင်းကို ကူညီဖို့ လာပါတယ်။"
+      },
+      {
+        "chinese": "他来了！",
+        "pinyin": "Tā lái le!",
+        "myanmar": "သူ လာပြီ!"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "hsk_level": 1,
+    "pattern": "___了。",
+    "pinyin": "___ le.",
+    "myanmar": "___ ပြီးပြီ/ဖြစ်ပြီ။ (ပြောင်းလဲမှု သို့မဟုတ် ပြီးဆုံးမှု ဖော်ပြသောအခါ 了 ကို ဝါကျ အဆုံးတွင် ထည့်သည်)",
+    "structure": "ဝါကျ + 了 (ပြောင်းလဲမှု/ပြီးဆုံးမှု ပုဒ်မ)",
+    "examples": [
+      {
+        "chinese": "我吃饭了。",
+        "pinyin": "Wǒ chīfàn le.",
+        "myanmar": "ကျွန်တော် ထမင်းစားပြီးပြီ။"
+      },
+      {
+        "chinese": "他来了。",
+        "pinyin": "Tā lái le.",
+        "myanmar": "သူ လာပြီ။"
+      },
+      {
+        "chinese": "天黑了。",
+        "pinyin": "Tiān hēi le.",
+        "myanmar": "ညမိုးချုပ်ပြီ။"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "hsk_level": 1,
+    "pattern": "我的___",
+    "pinyin": "Wǒ de ___",
+    "myanmar": "ကျွန်တော့် ___ (ပိုင်ဆိုင်မှု ဖော်ပြသောအခါ 的 ကို ကြားထဲ ထည့်သည်)",
+    "structure": "ပိုင်ရှင် + 的 + ပိုင်ဆိုင်မှု",
+    "examples": [
+      {
+        "chinese": "这是我的书。",
+        "pinyin": "Zhè shì wǒ de shū.",
+        "myanmar": "ဒါ ကျွန်တော့်စာအုပ်ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "我的朋友很多。",
+        "pinyin": "Wǒ de péngyou hěn duō.",
+        "myanmar": "ကျွန်တော့်သူငယ်ချင်း အများကြီး ရှိပါတယ်။"
+      },
+      {
+        "chinese": "这是谁的？",
+        "pinyin": "Zhè shì shéi de?",
+        "myanmar": "ဒါ ဘယ်သူ့ဟာလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "hsk_level": 1,
+    "pattern": "太___了！",
+    "pinyin": "Tài ___ le!",
+    "myanmar": "အလွန်ဆုံး ___ပါတယ်! (အလွန်ကျော်လွန်ကြောင်း ဖော်ပြသောအခါ သုံးသည်)",
+    "structure": "太 (အလွန်ဆုံး) + နာမဝိသေသန + 了",
+    "examples": [
+      {
+        "chinese": "太好了！",
+        "pinyin": "Tài hǎo le!",
+        "myanmar": "အကောင်းဆုံးပဲ! (ကောင်းလိုက်တာ!)"
+      },
+      {
+        "chinese": "太贵了！",
+        "pinyin": "Tài guì le!",
+        "myanmar": "အလွန်ဆုံး စျေးကြီးလိုက်တာ!"
+      },
+      {
+        "chinese": "太累了！",
+        "pinyin": "Tài lèi le!",
+        "myanmar": "အလွန်ဆုံး ပင်ပန်းလိုက်တာ!"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "hsk_level": 1,
+    "pattern": "你能___吗？",
+    "pinyin": "Nǐ néng ___ ma?",
+    "myanmar": "မင်း ___ နိုင်လား? (တောင်းဆိုသောအခါ သုံးသည်)",
+    "structure": "你 + 能 (နိုင်သည်) + ကြိယာ + 吗",
+    "examples": [
+      {
+        "chinese": "你能帮我吗？",
+        "pinyin": "Nǐ néng bāng wǒ ma?",
+        "myanmar": "မင်း ကျွန်တော့်ကို ကူညီနိုင်လား?"
+      },
+      {
+        "chinese": "你能来吗？",
+        "pinyin": "Nǐ néng lái ma?",
+        "myanmar": "မင်း လာနိုင်လား?"
+      },
+      {
+        "chinese": "我能进来吗？",
+        "pinyin": "Wǒ néng jìnlái ma?",
+        "myanmar": "ကျွန်တော် ဝင်လို့ ရမလား?"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "hsk_level": 1,
+    "pattern": "我要___。",
+    "pinyin": "Wǒ yào ___.",
+    "myanmar": "ကျွန်တော် ___ လိုချင်ပါတယ်/မှာပါမယ်။ (လိုချင်မှု သို့မဟုတ် မှာယူသောအခါ သုံးသည်)",
+    "structure": "我 + 要 (လိုချင်သည်) + နာမ်/ကြိယာ",
+    "examples": [
+      {
+        "chinese": "我要一杯茶。",
+        "pinyin": "Wǒ yào yī bēi chá.",
+        "myanmar": "ကျွန်တော် လက်ဖက်ရည် တစ်ခွက် မှာပါမယ်။"
+      },
+      {
+        "chinese": "我要去厕所。",
+        "pinyin": "Wǒ yào qù cèsuǒ.",
+        "myanmar": "ကျွန်တော် အိမ်သာသွားချင်ပါတယ်။"
+      },
+      {
+        "chinese": "你要什么？",
+        "pinyin": "Nǐ yào shénme?",
+        "myanmar": "မင်း ဘာလိုချင်လဲ?"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "hsk_level": 1,
+    "pattern": "___是___吗？",
+    "pinyin": "___ shi ___ ma?",
+    "myanmar": "___ သည် ___ ဖြစ်သလား? (ဖြစ်/မဖြစ် မေးသောအခါ)",
+    "structure": "နာမ် + 是 + နာမ် + 吗",
+    "examples": [
+      {
+        "chinese": "他是老师吗？",
+        "pinyin": "Ta shi laoshi ma?",
+        "myanmar": "သူ ဆရာ ဖြစ်သလား?"
+      },
+      {
+        "chinese": "这是你的书吗？",
+        "pinyin": "Zhe shi ni de shu ma?",
+        "myanmar": "ဒါ မင်းစာအုပ် ဖြစ်သလား?"
+      },
+      {
+        "chinese": "她是你的朋友吗？",
+        "pinyin": "Ta shi ni de pengyou ma?",
+        "myanmar": "သူမ မင်းသူငယ်ချင်း ဖြစ်သလား?"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "hsk_level": 1,
+    "pattern": "___不是___。",
+    "pinyin": "___ bu shi ___.",
+    "myanmar": "___ သည် ___ မဟုတ်ဘူး။ (ငြင်းဆိုသောအခါ)",
+    "structure": "နာမ် + 不是 (မဟုတ်) + နာမ်",
+    "examples": [
+      {
+        "chinese": "我不是老师，我是学生。",
+        "pinyin": "Wo bu shi laoshi, wo shi xuesheng.",
+        "myanmar": "ကျွန်တော် ဆရာ မဟုတ်ဘူး၊ ကျောင်းသား ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "这不是我的。",
+        "pinyin": "Zhe bu shi wo de.",
+        "myanmar": "ဒါ ကျွန်တော့်ဟာ မဟုတ်ဘူး။"
+      },
+      {
+        "chinese": "他不是中国人。",
+        "pinyin": "Ta bu shi Zhongguoren.",
+        "myanmar": "သူ တရုတ်လူမျိုး မဟုတ်ဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "hsk_level": 1,
+    "pattern": "你从哪里来？",
+    "pinyin": "Ni cong nali lai?",
+    "myanmar": "မင်း ဘယ်နိုင်ငံ/ဘယ်နေရာ မှ လာလဲ? (မူလနေရာ မေးသောအခါ)",
+    "structure": "你 + 从 (မှ) + 哪里 (ဘယ်နေရာ) + 来 (လာသည်)",
+    "examples": [
+      {
+        "chinese": "你从哪里来？我从缅甸来。",
+        "pinyin": "Ni cong nali lai? Wo cong Miandian lai.",
+        "myanmar": "မင်း ဘယ်နေရာမှ လာလဲ? ကျွန်တော် မြန်မာနိုင်ငံမှ လာပါတယ်။"
+      },
+      {
+        "chinese": "他从北京来。",
+        "pinyin": "Ta cong Beijing lai.",
+        "myanmar": "သူ ပေကျင်းမှ လာပါတယ်။"
+      },
+      {
+        "chinese": "你们从哪里来？",
+        "pinyin": "Nimen cong nali lai?",
+        "myanmar": "သင်တို့ ဘယ်နေရာမှ လာကြသလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "hsk_level": 1,
+    "pattern": "___怎么样？",
+    "pinyin": "___ zenmeyang?",
+    "myanmar": "___ ဘယ်လိုလဲ? (အကြောင်းအရာ တစ်ခုအကြောင်း မေးသောအခါ)",
+    "structure": "နာမ်/ဝါကျ + 怎么样 (ဘယ်လို)",
+    "examples": [
+      {
+        "chinese": "今天天气怎么样？",
+        "pinyin": "Jintian tianqi zenmeyang?",
+        "myanmar": "ဒီနေ့ မိုးလေဝသ ဘယ်လိုလဲ?"
+      },
+      {
+        "chinese": "你的工作怎么样？",
+        "pinyin": "Ni de gongzuo zenmeyang?",
+        "myanmar": "မင်းအလုပ် ဘယ်လိုလဲ?"
+      },
+      {
+        "chinese": "这个菜怎么样？很好吃！",
+        "pinyin": "Zhege cai zenmeyang? Hen haochi!",
+        "myanmar": "ဒီဟင်း ဘယ်လိုလဲ? အရမ်းကောင်းပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "hsk_level": 1,
+    "pattern": "___怎么走？",
+    "pinyin": "___ zenme zou?",
+    "myanmar": "___ ကို ဘယ်လိုသွားရမလဲ? (လမ်းကြောင်း မေးသောအခါ)",
+    "structure": "နေရာ + 怎么 (ဘယ်လို) + 走 (သွားသည်)",
+    "examples": [
+      {
+        "chinese": "火车站怎么走？",
+        "pinyin": "Huochezhan zenme zou?",
+        "myanmar": "ရထားဘူတာ ဘယ်လိုသွားရမလဲ?"
+      },
+      {
+        "chinese": "医院怎么走？",
+        "pinyin": "Yiyuan zenme zou?",
+        "myanmar": "ဆေးရုံ ဘယ်လိုသွားရမလဲ?"
+      },
+      {
+        "chinese": "一直走，然后左转。",
+        "pinyin": "Yizhi zou, ranhou zuo zhuan.",
+        "myanmar": "တည့်တည့် သွားပြီး ဘယ်ဘက် ကွေ့ပါ။"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "hsk_level": 1,
+    "pattern": "我饿了。/ 我渴了。",
+    "pinyin": "Wo e le. / Wo ke le.",
+    "myanmar": "ကျွန်တော် ဆာပြီ။ / ကျွန်တော် ရေငတ်ပြီ။ (ကိုယ်ခံစားချက် ဖော်ပြသောအခါ)",
+    "structure": "我 + ဂုဏ်သတ္တိ + 了 (ဖြစ်လာပြီ)",
+    "examples": [
+      {
+        "chinese": "我饿了，我们去吃饭吧。",
+        "pinyin": "Wo e le, women qu chifan ba.",
+        "myanmar": "ကျွန်တော် ဆာပြီ၊ ထမင်းသွားစားကြမယ်နော်။"
+      },
+      {
+        "chinese": "我渴了，有水吗？",
+        "pinyin": "Wo ke le, you shui ma?",
+        "myanmar": "ကျွန်တော် ရေငတ်ပြီ၊ ရေ ရှိလား?"
+      },
+      {
+        "chinese": "我累了，想休息。",
+        "pinyin": "Wo lei le, xiang xiuxi.",
+        "myanmar": "ကျွန်တော် ပင်ပန်းပြီ၊ နားချင်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "hsk_level": 1,
+    "pattern": "___好不好？",
+    "pinyin": "___ hao bu hao?",
+    "myanmar": "___ ကောင်းလား? (တိုတောင်းသော Yes/No မေးခွန်း — ကြိယာ ထပ်ကာ မေးသောပုံစံ)",
+    "structure": "ကြိယာ + 不 + ကြိယာ (ထပ်ကာ မေးသောပုံစံ)",
+    "examples": [
+      {
+        "chinese": "这个好不好？",
+        "pinyin": "Zhege hao bu hao?",
+        "myanmar": "ဒါ ကောင်းလား?"
+      },
+      {
+        "chinese": "你去不去？",
+        "pinyin": "Ni qu bu qu?",
+        "myanmar": "မင်း သွားမလား?"
+      },
+      {
+        "chinese": "你吃不吃？",
+        "pinyin": "Ni chi bu chi?",
+        "myanmar": "မင်း စားမလား?"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "hsk_level": 1,
+    "pattern": "一共___元。",
+    "pinyin": "Yigong ___ yuan.",
+    "myanmar": "စုစုပေါင်း ___ ယွမ်ကျပါတယ်။ (ဈေးပေးချေသောအခါ)",
+    "structure": "一共 (စုစုပေါင်း) + ဂဏန်း + 元/块 (ယွမ်)",
+    "examples": [
+      {
+        "chinese": "一共五十元。",
+        "pinyin": "Yigong wushi yuan.",
+        "myanmar": "စုစုပေါင်း ၅၀ ယွမ်ကျပါတယ်။"
+      },
+      {
+        "chinese": "一共多少钱？",
+        "pinyin": "Yigong duoshao qian?",
+        "myanmar": "စုစုပေါင်း ဘယ်လောက်ကျလဲ?"
+      },
+      {
+        "chinese": "给你一百元。",
+        "pinyin": "Gei ni yi bai yuan.",
+        "myanmar": "မင်းကို ၁၀၀ ယွမ် ပေးပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "hsk_level": 1,
+    "pattern": "我们一起___吧。",
+    "pinyin": "Women yiqi ___ ba.",
+    "myanmar": "ကျွန်တော်တို့ အတူ ___ ကြမယ်နော်။ (တိုက်တွန်းသောအခါ)",
+    "structure": "我们 (ကျွန်တော်တို့) + 一起 (အတူ) + ကြိယာ + 吧 (နော်)",
+    "examples": [
+      {
+        "chinese": "我们一起去吃饭吧。",
+        "pinyin": "Women yiqi qu chifan ba.",
+        "myanmar": "ကျွန်တော်တို့ အတူ ထမင်းသွားစားကြမယ်နော်။"
+      },
+      {
+        "chinese": "我们一起学习吧。",
+        "pinyin": "Women yiqi xuexi ba.",
+        "myanmar": "ကျွန်တော်တို့ အတူ ပညာသင်ကြမယ်နော်။"
+      },
+      {
+        "chinese": "我们一起走吧。",
+        "pinyin": "Women yiqi zou ba.",
+        "myanmar": "ကျွန်တော်တို့ အတူ သွားကြမယ်နော်။"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "hsk_level": 1,
+    "pattern": "___是什么意思？",
+    "pinyin": "___ shi shenme yisi?",
+    "myanmar": "___ ဆိုတာ ဘာအဓိပ္ပာယ် ရှိလဲ? (အဓိပ္ပာယ် မေးသောအခါ)",
+    "structure": "စကားလုံး + 是 + 什么 + 意思 (အဓိပ္ပာယ်)",
+    "examples": [
+      {
+        "chinese": "这个字是什么意思？",
+        "pinyin": "Zhege zi shi shenme yisi?",
+        "myanmar": "ဒီစာလုံး ဘာအဓိပ္ပာယ် ရှိလဲ?"
+      },
+      {
+        "chinese": "你好是什么意思？",
+        "pinyin": "Ni hao shi shenme yisi?",
+        "myanmar": "\"你好\" ဆိုတာ ဘာအဓိပ္ပာယ် ရှိလဲ?"
+      },
+      {
+        "chinese": "对不起，我不明白。",
+        "pinyin": "Duibuqi, wo bu mingbai.",
+        "myanmar": "တောင်းပန်ပါတယ်၊ ကျွန်တော် နားမလည်ဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "hsk_level": 1,
+    "pattern": "请再说一遍。",
+    "pinyin": "Qing zai shuo yi bian.",
+    "myanmar": "ကျေးဇူးပြု၍ တစ်ခါ ထပ်ပြောပေးပါ။ (နားမလည်သောအခါ)",
+    "structure": "请 (ကျေးဇူးပြု၍) + 再 (ထပ်) + 说 (ပြောသည်) + 一遍 (တစ်ကြိမ်)",
+    "examples": [
+      {
+        "chinese": "请再说一遍，我没听清楚。",
+        "pinyin": "Qing zai shuo yi bian, wo mei ting qingchu.",
+        "myanmar": "ကျေးဇူးပြု၍ တစ်ခါ ထပ်ပြောပေးပါ၊ ကျွန်တော် ကြားမရဘူး။"
+      },
+      {
+        "chinese": "请说慢一点。",
+        "pinyin": "Qing shuo man yidian.",
+        "myanmar": "ကျေးဇူးပြု၍ နည်းနည်း နှေးနှေး ပြောပေးပါ။"
+      },
+      {
+        "chinese": "你说什么？",
+        "pinyin": "Ni shuo shenme?",
+        "myanmar": "မင်း ဘာပြောတာလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "hsk_level": 1,
+    "pattern": "我不知道。/ 我知道了。",
+    "pinyin": "Wo bu zhidao. / Wo zhidao le.",
+    "myanmar": "ကျွန်တော် မသိဘူး။ / ကျွန်တော် သိပြီ။ (သိ/မသိ ဖော်ပြသောအခါ)",
+    "structure": "我 + 不知道 (မသိ) / 知道了 (သိပြီ)",
+    "examples": [
+      {
+        "chinese": "你知道他在哪里吗？我不知道。",
+        "pinyin": "Ni zhidao ta zai nali ma? Wo bu zhidao.",
+        "myanmar": "မင်း သူ ဘယ်မှာ ရှိတယ်ဆိုတာ သိလား? ကျွန်တော် မသိဘူး။"
+      },
+      {
+        "chinese": "我知道了，谢谢！",
+        "pinyin": "Wo zhidao le, xie xie!",
+        "myanmar": "ကျွန်တော် သိပြီ၊ ကျေးဇူးတင်ပါတယ်!"
+      },
+      {
+        "chinese": "你知道吗？",
+        "pinyin": "Ni zhidao ma?",
+        "myanmar": "မင်း သိလား?"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "hsk_level": 1,
+    "pattern": "___几个？",
+    "pinyin": "___ ji ge?",
+    "myanmar": "___ ဘယ်နှစ်ခု/ယောက် ရှိလဲ? (အရေအတွက် မေးသောအခါ)",
+    "structure": "နာမ် + 几 (ဘယ်နှစ်) + 个 (ခု/ယောက်)",
+    "examples": [
+      {
+        "chinese": "你有几个苹果？",
+        "pinyin": "Ni you ji ge pingguo?",
+        "myanmar": "မင်းမှာ ပန်းသီး ဘယ်နှစ်လုံး ရှိလဲ?"
+      },
+      {
+        "chinese": "你家有几个人？",
+        "pinyin": "Ni jia you ji ge ren?",
+        "myanmar": "မင်းအိမ်မှာ လူ ဘယ်နှစ်ယောက် ရှိလဲ?"
+      },
+      {
+        "chinese": "我家有四个人。",
+        "pinyin": "Wo jia you si ge ren.",
+        "myanmar": "ကျွန်တော်အိမ်မှာ လူ လေးယောက် ရှိပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "hsk_level": 1,
+    "pattern": "___多大了？",
+    "pinyin": "___ duo da le?",
+    "myanmar": "___ အသက် ဘယ်နှစ်နှစ် ရှိပြီလဲ? (အသက် မေးသောအခါ)",
+    "structure": "နာမ် + 多大 (ဘယ်နှစ်နှစ်) + 了",
+    "examples": [
+      {
+        "chinese": "你多大了？我二十岁。",
+        "pinyin": "Ni duo da le? Wo ershi sui.",
+        "myanmar": "မင်း အသက် ဘယ်နှစ်နှစ် ရှိပြီလဲ? ကျွန်တော် ၂၀ နှစ်ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "你的孩子多大了？",
+        "pinyin": "Ni de haizi duo da le?",
+        "myanmar": "မင်းသားသမီး အသက် ဘယ်နှစ်နှစ် ရှိပြီလဲ?"
+      },
+      {
+        "chinese": "他今年三十岁。",
+        "pinyin": "Ta jinnian sanshi sui.",
+        "myanmar": "သူ ဒီနှစ် ၃၀ နှစ်ဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "hsk_level": 1,
+    "pattern": "___好吃！/ ___好喝！",
+    "pinyin": "___ haochi! / ___ hahe!",
+    "myanmar": "___ အရသာကောင်းတယ်! (အစားအသောက် ချီးမွမ်းသောအခါ)",
+    "structure": "နာမ် + 好吃 (စားကောင်း) / 好喝 (သောက်ကောင်း)",
+    "examples": [
+      {
+        "chinese": "这个菜好吃！",
+        "pinyin": "Zhege cai haochi!",
+        "myanmar": "ဒီဟင်း အရသာကောင်းတယ်!"
+      },
+      {
+        "chinese": "这个茶好喝！",
+        "pinyin": "Zhege cha hahe!",
+        "myanmar": "ဒီလက်ဖက်ရည် အရသာကောင်းတယ်!"
+      },
+      {
+        "chinese": "你做的饭真好吃！",
+        "pinyin": "Ni zuo de fan zhen haochi!",
+        "myanmar": "မင်းချက်တဲ့ ထမင်း တကယ်ကောင်းတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "hsk_level": 1,
+    "pattern": "我听不懂。/ 我看不懂。",
+    "pinyin": "Wo ting bu dong. / Wo kan bu dong.",
+    "myanmar": "ကျွန်တော် နားမလည်ဘူး (ကြားပြီး/ဖတ်ပြီး)။ (နားမလည်ကြောင်း ဖော်ပြသောအခါ)",
+    "structure": "我 + ကြိယာ + 不懂 (မနားလည်)",
+    "examples": [
+      {
+        "chinese": "对不起，我听不懂。",
+        "pinyin": "Duibuqi, wo ting bu dong.",
+        "myanmar": "တောင်းပန်ပါတယ်၊ ကျွန်တော် (ကြားပြီး) နားမလည်ဘူး။"
+      },
+      {
+        "chinese": "这本书我看不懂。",
+        "pinyin": "Zhe ben shu wo kan bu dong.",
+        "myanmar": "ဒီစာအုပ် ကျွန်တော် (ဖတ်ပြီး) နားမလည်ဘူး။"
+      },
+      {
+        "chinese": "你能用简单的话说吗？",
+        "pinyin": "Ni neng yong jiandan de hua shuo ma?",
+        "myanmar": "မင်း ရိုးရှင်းတဲ့ စကားနဲ့ ပြောနိုင်မလား?"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "hsk_level": 1,
+    "pattern": "___在___旁边。",
+    "pinyin": "___ zai ___ pangbian.",
+    "myanmar": "___ သည် ___ ဘေးမှာ ရှိပါတယ်။ (နေရာ ဖော်ပြသောအခါ)",
+    "structure": "နာမ် + 在 + နေရာ + 旁边 (ဘေး) / 上面 (အပေါ်) / 下面 (အောက်) / 里面 (အတွင်း)",
+    "examples": [
+      {
+        "chinese": "书在桌子旁边。",
+        "pinyin": "Shu zai zhuozi pangbian.",
+        "myanmar": "စာအုပ် စားပွဲဘေးမှာ ရှိပါတယ်။"
+      },
+      {
+        "chinese": "猫在床上面。",
+        "pinyin": "Mao zai chuang shangmian.",
+        "myanmar": "ကြောင် အိပ်ရာပေါ်မှာ ရှိပါတယ်။"
+      },
+      {
+        "chinese": "钱包在包里面。",
+        "pinyin": "Qianbao zai bao limian.",
+        "myanmar": "ပိုက်ဆံအိတ် အိတ်ထဲမှာ ရှိပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "hsk_level": 1,
+    "pattern": "___以前 / ___以后",
+    "pinyin": "___ yiqian / ___ yihou",
+    "myanmar": "___ မတိုင်ခင် / ___ ပြီးနောက် (အချိန် ဖော်ပြသောအခါ)",
+    "structure": "ကြိယာ/နာမ် + 以前 (မတိုင်ခင်) / 以后 (ပြီးနောက်)",
+    "examples": [
+      {
+        "chinese": "吃饭以前，要洗手。",
+        "pinyin": "Chifan yiqian, yao xishou.",
+        "myanmar": "ထမင်းမစားခင်၊ လက်ဆေးရပါမယ်။"
+      },
+      {
+        "chinese": "下课以后，我去买东西。",
+        "pinyin": "Xia ke yihou, wo qu mai dongxi.",
+        "myanmar": "အတန်းပြီးနောက်၊ ကျွန်တော် ဈေးဝယ်သွားပါမယ်။"
+      },
+      {
+        "chinese": "睡觉以前，刷牙。",
+        "pinyin": "Shuijiao yiqian, shua ya.",
+        "myanmar": "အိပ်ခင်၊ သွားတိုက်ရပါမယ်။"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "hsk_level": 1,
+    "pattern": "___还是___？",
+    "pinyin": "___ haishi ___?",
+    "myanmar": "___ လား ___ လား? (ရွေးချယ်မေးသောအခါ)",
+    "structure": "ရွေးချယ်မှု A + 还是 (လား) + ရွေးချယ်မှု B",
+    "examples": [
+      {
+        "chinese": "你喝茶还是喝咖啡？",
+        "pinyin": "Ni he cha haishi he kafei?",
+        "myanmar": "မင်း လက်ဖက်ရည် သောက်မလား ကော်ဖီ သောက်မလား?"
+      },
+      {
+        "chinese": "你是学生还是老师？",
+        "pinyin": "Ni shi xuesheng haishi laoshi?",
+        "myanmar": "မင်း ကျောင်းသား ဖြစ်သလား ဆရာ ဖြစ်သလား?"
+      },
+      {
+        "chinese": "去还是不去？",
+        "pinyin": "Qu haishi bu qu?",
+        "myanmar": "သွားမလား မသွားဘူးလား?"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "hsk_level": 1,
+    "pattern": "___的时候",
+    "pinyin": "___ de shihou",
+    "myanmar": "___ သောအခါ (အချိန် ဖော်ပြသောအခါ)",
+    "structure": "ကြိယာ/နာမ် + 的时候 (သောအခါ)",
+    "examples": [
+      {
+        "chinese": "吃饭的时候，不要看手机。",
+        "pinyin": "Chifan de shihou, bu yao kan shouji.",
+        "myanmar": "ထမင်းစားသောအခါ၊ ဖုန်းမကြည့်ပါနဲ့။"
+      },
+      {
+        "chinese": "我小的时候，很喜欢玩。",
+        "pinyin": "Wo xiao de shihou, hen xihuan wan.",
+        "myanmar": "ကျွန်တော် ငယ်သောအခါ၊ ကစားတာ အရမ်းကြိုက်ပါတယ်။"
+      },
+      {
+        "chinese": "下雨的时候，带伞。",
+        "pinyin": "Xia yu de shihou, dai san.",
+        "myanmar": "မိုးရွာသောအခါ၊ ထီးဆောင်းပါ။"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "hsk_level": 1,
+    "pattern": "因为___，所以___。",
+    "pinyin": "Yinwei ___, suoyi ___.",
+    "myanmar": "___ ကြောင့်၊ ___ ဖြစ်ပါတယ်။ (အကြောင်းနှင့် အကျိုး ဖော်ပြသောအခါ)",
+    "structure": "因为 (ကြောင့်) + အကြောင်း + 所以 (ဖြစ်ပါတယ်) + အကျိုး",
+    "examples": [
+      {
+        "chinese": "因为下雨，所以我没去。",
+        "pinyin": "Yinwei xia yu, suoyi wo mei qu.",
+        "myanmar": "မိုးရွာကြောင့်၊ ကျွန်တော် မသွားဘူး။"
+      },
+      {
+        "chinese": "因为我饿了，所以我去吃饭。",
+        "pinyin": "Yinwei wo e le, suoyi wo qu chifan.",
+        "myanmar": "ကျွန်တော် ဆာကြောင့်၊ ထမင်းသွားစားပါတယ်။"
+      },
+      {
+        "chinese": "因为他生病了，所以没来。",
+        "pinyin": "Yinwei ta shengbing le, suoyi mei lai.",
+        "myanmar": "သူ နာမကျန်းကြောင့်၊ မလာဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "hsk_level": 1,
+    "pattern": "___可以吗？",
+    "pinyin": "___ keyi ma?",
+    "myanmar": "___ ရမလား? (ခွင့်ပြုချက် တောင်းသောအခါ)",
+    "structure": "ကြိယာ + 可以 (ရသည်) + 吗",
+    "examples": [
+      {
+        "chinese": "我可以进来吗？",
+        "pinyin": "Wo keyi jinlai ma?",
+        "myanmar": "ကျွန်တော် ဝင်လို့ ရမလား?"
+      },
+      {
+        "chinese": "我可以用你的手机吗？",
+        "pinyin": "Wo keyi yong ni de shouji ma?",
+        "myanmar": "ကျွန်တော် မင်းဖုန်း သုံးလို့ ရမလား?"
+      },
+      {
+        "chinese": "当然可以！",
+        "pinyin": "Dangran keyi!",
+        "myanmar": "ဟုတ်ကဲ့ ရပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "hsk_level": 1,
+    "pattern": "___多少？",
+    "pinyin": "___ duoshao?",
+    "myanmar": "___ ဘယ်လောက် ရှိလဲ? (အရေအတွက်/ပမာဏ မေးသောအခါ)",
+    "structure": "နာမ် + 多少 (ဘယ်လောက်)",
+    "examples": [
+      {
+        "chinese": "你有多少钱？",
+        "pinyin": "Ni you duoshao qian?",
+        "myanmar": "မင်းမှာ ငွေ ဘယ်လောက် ရှိလဲ?"
+      },
+      {
+        "chinese": "你们班有多少学生？",
+        "pinyin": "Nimen ban you duoshao xuesheng?",
+        "myanmar": "မင်းတို့ အတန်းမှာ ကျောင်းသား ဘယ်နှစ်ယောက် ရှိလဲ?"
+      },
+      {
+        "chinese": "我们班有三十个学生。",
+        "pinyin": "Women ban you sanshi ge xuesheng.",
+        "myanmar": "ကျွန်တော်တို့ အတန်းမှာ ကျောင်းသား ၃၀ ယောက် ရှိပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "hsk_level": 1,
+    "pattern": "___对了！/ ___错了！",
+    "pinyin": "___ dui le! / ___ cuo le!",
+    "myanmar": "___ မှန်ပါတယ်! / ___ မှားပါတယ်! (မှန်/မှား ဖော်ပြသောအခါ)",
+    "structure": "ဝါကျ + 对了 (မှန်ပြီ) / 错了 (မှားပြီ)",
+    "examples": [
+      {
+        "chinese": "你说得对！",
+        "pinyin": "Ni shuo de dui!",
+        "myanmar": "မင်းပြောတာ မှန်ပါတယ်!"
+      },
+      {
+        "chinese": "对不起，我说错了。",
+        "pinyin": "Duibuqi, wo shuo cuo le.",
+        "myanmar": "တောင်းပန်ပါတယ်၊ ကျွန်တော် မှားပြောမိပါတယ်။"
+      },
+      {
+        "chinese": "这道题做错了。",
+        "pinyin": "Zhe dao ti zuo cuo le.",
+        "myanmar": "ဒီပုစ္ဆာ မှားလုပ်မိပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "hsk_level": 1,
+    "pattern": "先___，然后___。",
+    "pinyin": "Xian ___, ranhou ___.",
+    "myanmar": "ဦးစွာ ___၊ ပြီးနောက် ___။ (အဆင့်ဆင့် ဖော်ပြသောအခါ)",
+    "structure": "先 (ဦးစွာ) + ကြိယာ + 然后 (ပြီးနောက်) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "先洗手，然后吃饭。",
+        "pinyin": "Xian xishou, ranhou chifan.",
+        "myanmar": "ဦးစွာ လက်ဆေး၊ ပြီးနောက် ထမင်းစားပါ။"
+      },
+      {
+        "chinese": "先做作业，然后玩。",
+        "pinyin": "Xian zuo zuoye, ranhou wan.",
+        "myanmar": "ဦးစွာ အိမ်စာလုပ်၊ ပြီးနောက် ကစားပါ။"
+      },
+      {
+        "chinese": "先去超市，然后回家。",
+        "pinyin": "Xian qu chaoshi, ranhou hui jia.",
+        "myanmar": "ဦးစွာ စူပါမားကတ်သွား၊ ပြီးနောက် အိမ်ပြန်ပါ။"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "hsk_level": 1,
+    "pattern": "___一点儿。",
+    "pinyin": "___ yidianr.",
+    "myanmar": "နည်းနည်း ___ပါ။ (နည်းနည်းချင်း ဖော်ပြသောအခါ)",
+    "structure": "ကြိယာ/နာမဝိသေသန + 一点儿 (နည်းနည်း)",
+    "examples": [
+      {
+        "chinese": "请说慢一点儿。",
+        "pinyin": "Qing shuo man yidianr.",
+        "myanmar": "ကျေးဇူးပြု၍ နည်းနည်း နှေးနှေး ပြောပေးပါ။"
+      },
+      {
+        "chinese": "我想吃一点儿。",
+        "pinyin": "Wo xiang chi yidianr.",
+        "myanmar": "ကျွန်တော် နည်းနည်း စားချင်ပါတယ်။"
+      },
+      {
+        "chinese": "再等一点儿。",
+        "pinyin": "Zai deng yidianr.",
+        "myanmar": "နည်းနည်း ထပ်စောင့်ပါ။"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "hsk_level": 1,
+    "pattern": "___怎么说？",
+    "pinyin": "___ zenme shuo?",
+    "myanmar": "___ ကို ဘယ်လိုပြောရမလဲ? (တရုတ်ဘာသာ မေးသောအခါ)",
+    "structure": "မြန်မာ/အင်္ဂလိပ်စကားလုံး + 怎么说 (ဘယ်လိုပြောရမလဲ)",
+    "examples": [
+      {
+        "chinese": "谢谢用缅语怎么说？",
+        "pinyin": "Xie xie yong Mianyu zenme shuo?",
+        "myanmar": "\"谢谢\" ကို မြန်မာဘာသာနဲ့ ဘယ်လိုပြောရမလဲ?"
+      },
+      {
+        "chinese": "这个用汉语怎么说？",
+        "pinyin": "Zhege yong Hanyu zenme shuo?",
+        "myanmar": "ဒါကို တရုတ်ဘာသာနဲ့ ဘယ်လိုပြောရမလဲ?"
+      },
+      {
+        "chinese": "用汉语说是谢谢。",
+        "pinyin": "Yong Hanyu shuo shi xie xie.",
+        "myanmar": "တရုတ်ဘာသာနဲ့ \"谢谢\" လို့ ပြောပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "hsk_level": 1,
+    "pattern": "我打算___。",
+    "pinyin": "Wo dasuan ___.",
+    "myanmar": "ကျွန်တော် ___ စီစဉ်ထားပါတယ်/ရည်ရွယ်ပါတယ်။ (အစီအစဉ် ဖော်ပြသောအခါ)",
+    "structure": "我 + 打算 (စီစဉ်သည်) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "我打算明天去北京。",
+        "pinyin": "Wo dasuan mingtian qu Beijing.",
+        "myanmar": "ကျွန်တော် မနက်ဖြန် ပေကျင်းသွားဖို့ စီစဉ်ထားပါတယ်။"
+      },
+      {
+        "chinese": "我打算学汉语。",
+        "pinyin": "Wo dasuan xue Hanyu.",
+        "myanmar": "ကျွန်တော် တရုတ်ဘာသာ သင်ဖို့ ရည်ရွယ်ပါတယ်။"
+      },
+      {
+        "chinese": "你打算做什么？",
+        "pinyin": "Ni dasuan zuo shenme?",
+        "myanmar": "မင်း ဘာလုပ်ဖို့ စီစဉ်ထားလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "hsk_level": 1,
+    "pattern": "___真___！",
+    "pinyin": "___ zhen ___!",
+    "myanmar": "___ တကယ်ပဲ ___ပါတယ်! (အလေးအနက် ချီးမွမ်း/ဖော်ပြသောအခါ)",
+    "structure": "နာမ် + 真 (တကယ်) + နာမဝိသေသန",
+    "examples": [
+      {
+        "chinese": "你真聪明！",
+        "pinyin": "Ni zhen congming!",
+        "myanmar": "မင်း တကယ်ပဲ ဉာဏ်ကောင်းတယ်!"
+      },
+      {
+        "chinese": "今天真热！",
+        "pinyin": "Jintian zhen re!",
+        "myanmar": "ဒီနေ့ တကယ်ပဲ ပူတယ်!"
+      },
+      {
+        "chinese": "这里真漂亮！",
+        "pinyin": "Zheli zhen piaoliang!",
+        "myanmar": "ဒီနေရာ တကယ်ပဲ လှပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "hsk_level": 1,
+    "pattern": "___号房间",
+    "pinyin": "___ hao fangjian",
+    "myanmar": "___ နံပါတ် အခန်း (ဟိုတယ်/ဆေးရုံ အခန်းနံပါတ် ဖော်ပြသောအခါ)",
+    "structure": "ဂဏန်း + 号 (နံပါတ်) + 房间 (အခန်)",
+    "examples": [
+      {
+        "chinese": "我住三零八号房间。",
+        "pinyin": "Wo zhu san ling ba hao fangjian.",
+        "myanmar": "ကျွန်တော် ၃၀၈ နံပါတ် အခန်းမှာ နေပါတယ်။"
+      },
+      {
+        "chinese": "请问，我的房间在哪里？",
+        "pinyin": "Qingwen, wo de fangjian zai nali?",
+        "myanmar": "ကျေးဇူးပြု၍ မေးပါရစေ၊ ကျွန်တော့်အခန်း ဘယ်မှာ ရှိလဲ?"
+      },
+      {
+        "chinese": "这是你的房间钥匙。",
+        "pinyin": "Zhe shi ni de fangjian yaoshi.",
+        "myanmar": "ဒါ မင်းအခန်း သော့ဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "hsk_level": 1,
+    "pattern": "___比___更___。",
+    "pinyin": "___ bi ___ geng ___.",
+    "myanmar": "___ သည် ___ ထက် ပိုပြီး ___ ပါတယ်။ (နှိုင်းယှဉ်သောအခါ)",
+    "structure": "A + 比 (ထက်) + B + 更 (ပိုပြီး) + နာမဝိသေသန",
+    "examples": [
+      {
+        "chinese": "今天比昨天更热。",
+        "pinyin": "Jintian bi zuotian geng re.",
+        "myanmar": "ဒီနေ့ မနေ့ထက် ပိုပူပါတယ်။"
+      },
+      {
+        "chinese": "他比我更高。",
+        "pinyin": "Ta bi wo geng gao.",
+        "myanmar": "သူ ကျွန်တော်ထက် ပိုမြင့်ပါတယ်။"
+      },
+      {
+        "chinese": "这个比那个更好。",
+        "pinyin": "Zhege bi nage geng hao.",
+        "myanmar": "ဒါ ဟိုဟာထက် ပိုကောင်းပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "hsk_level": 1,
+    "pattern": "___跟___一样。",
+    "pinyin": "___ gen ___ yiyang.",
+    "myanmar": "___ သည် ___ နှင့် တူပါတယ်။ (တူညီမှု ဖော်ပြသောအခါ)",
+    "structure": "A + 跟 (နှင့်) + B + 一样 (တူသည်)",
+    "examples": [
+      {
+        "chinese": "我跟他一样高。",
+        "pinyin": "Wo gen ta yiyang gao.",
+        "myanmar": "ကျွန်တော် သူနှင့် အမြင့် တူပါတယ်။"
+      },
+      {
+        "chinese": "这个跟那个一样贵。",
+        "pinyin": "Zhege gen nage yiyang gui.",
+        "myanmar": "ဒါ ဟိုဟာနှင့် ဈေးနှုန်း တူပါတယ်။"
+      },
+      {
+        "chinese": "你跟我一样喜欢吃米饭。",
+        "pinyin": "Ni gen wo yiyang xihuan chi mifan.",
+        "myanmar": "မင်း ကျွန်တော်နှင့် ထမင်းစားတာ တူတူ ကြိုက်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "hsk_level": 1,
+    "pattern": "___越来越___。",
+    "pinyin": "___ yue lai yue ___.",
+    "myanmar": "___ တဖြည်းဖြည်း ___ လာပါတယ်။ (တိုးတက်မှု ဖော်ပြသောအခါ)",
+    "structure": "နာမ် + 越来越 (တဖြည်းဖြည်း) + နာမဝိသေသန",
+    "examples": [
+      {
+        "chinese": "天气越来越热了。",
+        "pinyin": "Tianqi yue lai yue re le.",
+        "myanmar": "မိုးလေဝသ တဖြည်းဖြည်း ပူလာပါတယ်။"
+      },
+      {
+        "chinese": "我的汉语越来越好了。",
+        "pinyin": "Wo de Hanyu yue lai yue hao le.",
+        "myanmar": "ကျွန်တော့်တရုတ်ဘာသာ တဖြည်းဖြည်း ကောင်းလာပါတယ်။"
+      },
+      {
+        "chinese": "他越来越胖了。",
+        "pinyin": "Ta yue lai yue pang le.",
+        "myanmar": "သူ တဖြည်းဖြည်း ဝလာပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "hsk_level": 1,
+    "pattern": "___已经___了。",
+    "pinyin": "___ yijing ___ le.",
+    "myanmar": "___ ကိုယ်တိုင် ___ ပြီးပြီ။ (ပြီးဆုံးပြီ ဖော်ပြသောအခါ)",
+    "structure": "已经 (ပြီးပြီ) + ကြိယာ + 了",
+    "examples": [
+      {
+        "chinese": "我已经吃饭了。",
+        "pinyin": "Wo yijing chifan le.",
+        "myanmar": "ကျွန်တော် ထမင်းစားပြီးပြီ။"
+      },
+      {
+        "chinese": "他已经走了。",
+        "pinyin": "Ta yijing zou le.",
+        "myanmar": "သူ သွားပြီးပြီ။"
+      },
+      {
+        "chinese": "你已经学了多少汉字？",
+        "pinyin": "Ni yijing xue le duoshao Hanzi?",
+        "myanmar": "မင်း တရုတ်စာ ဘယ်နှစ်လုံး သင်ပြီးပြီလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "hsk_level": 1,
+    "pattern": "___还没___。",
+    "pinyin": "___ hai mei ___.",
+    "myanmar": "___ မသေးဘူး/မပြီးသေးဘူး။ (မပြီးသေးကြောင်း ဖော်ပြသောအခါ)",
+    "structure": "还没 (မသေးဘူး) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "我还没吃饭。",
+        "pinyin": "Wo hai mei chifan.",
+        "myanmar": "ကျွန်တော် ထမင်းမစားသေးဘူး။"
+      },
+      {
+        "chinese": "他还没来。",
+        "pinyin": "Ta hai mei lai.",
+        "myanmar": "သူ မလာသေးဘူး။"
+      },
+      {
+        "chinese": "作业还没做完。",
+        "pinyin": "Zuoye hai mei zuo wan.",
+        "myanmar": "အိမ်စာ မပြီးသေးဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "hsk_level": 1,
+    "pattern": "___正在___呢。",
+    "pinyin": "___ zhengzai ___ ne.",
+    "myanmar": "___ အခု ___ နေပါတယ်။ (လုပ်နေဆဲ ဖော်ပြသောအခါ)",
+    "structure": "正在 (လုပ်နေဆဲ) + ကြိယာ + 呢",
+    "examples": [
+      {
+        "chinese": "我正在吃饭呢。",
+        "pinyin": "Wo zhengzai chifan ne.",
+        "myanmar": "ကျွန်တော် အခု ထမင်းစားနေပါတယ်။"
+      },
+      {
+        "chinese": "他正在睡觉呢。",
+        "pinyin": "Ta zhengzai shuijiao ne.",
+        "myanmar": "သူ အခု အိပ်နေပါတယ်။"
+      },
+      {
+        "chinese": "你在做什么？我正在看书呢。",
+        "pinyin": "Ni zai zuo shenme? Wo zhengzai kan shu ne.",
+        "myanmar": "မင်း ဘာလုပ်နေလဲ? ကျွန်တော် အခု စာဖတ်နေပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "hsk_level": 1,
+    "pattern": "___快___了。",
+    "pinyin": "___ kuai ___ le.",
+    "myanmar": "___ မကြာမီ ___ မည်။ (မကြာမီ ဖြစ်မည် ဖော်ပြသောအခါ)",
+    "structure": "快 (မကြာမီ) + ကြိယာ + 了",
+    "examples": [
+      {
+        "chinese": "快到了！",
+        "pinyin": "Kuai dao le!",
+        "myanmar": "မကြာမီ ရောက်မည်!"
+      },
+      {
+        "chinese": "快下课了。",
+        "pinyin": "Kuai xia ke le.",
+        "myanmar": "မကြာမီ အတန်းပြီးမည်။"
+      },
+      {
+        "chinese": "快吃饭了，准备好了吗？",
+        "pinyin": "Kuai chifan le, zhunbei hao le ma?",
+        "myanmar": "မကြာမီ ထမင်းစားချိန်ဖြစ်မည်၊ အဆင်သင့် ဖြစ်ပြီလား?"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "hsk_level": 1,
+    "pattern": "___刚刚___。",
+    "pinyin": "___ gangggang ___.",
+    "myanmar": "___ ခုနက ___ ပြီးပြီ။ (ခဏတာ ကြာမြင့်သောအခါ)",
+    "structure": "刚刚 (ခုနက) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "我刚刚吃完饭。",
+        "pinyin": "Wo ganggang chi wan fan.",
+        "myanmar": "ကျွန်တော် ခုနက ထမင်းစားပြီးပြီ။"
+      },
+      {
+        "chinese": "他刚刚走了。",
+        "pinyin": "Ta ganggang zou le.",
+        "myanmar": "သူ ခုနက သွားပြီ။"
+      },
+      {
+        "chinese": "我刚刚到家。",
+        "pinyin": "Wo ganggang dao jia.",
+        "myanmar": "ကျွန်တော် ခုနက အိမ်ရောက်ပြီ။"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "hsk_level": 1,
+    "pattern": "___应该___。",
+    "pinyin": "___ yinggai ___.",
+    "myanmar": "___ ___ သင့်ပါတယ်/ရမည်ဖြစ်ပါတယ်။ (တာဝန်/ဝတ္တရား ဖော်ပြသောအခါ)",
+    "structure": "应该 (သင့်သည်) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "你应该多喝水。",
+        "pinyin": "Ni yinggai duo he shui.",
+        "myanmar": "မင်း ရေ ပိုသောက်သင့်ပါတယ်။"
+      },
+      {
+        "chinese": "我们应该早点睡觉。",
+        "pinyin": "Women yinggai zao dian shuijiao.",
+        "myanmar": "ကျွန်တော်တို့ စောစောအိပ်သင့်ပါတယ်။"
+      },
+      {
+        "chinese": "你应该去看医生。",
+        "pinyin": "Ni yinggai qu kan yisheng.",
+        "myanmar": "မင်း ဆရာဝန်ကို သွားပြသင့်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "hsk_level": 1,
+    "pattern": "___别___！",
+    "pinyin": "___ bie ___!",
+    "myanmar": "___ မ___ပါနဲ့! (တားမြစ်သောအခါ)",
+    "structure": "别 (မ...ပါနဲ့) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "别说话！",
+        "pinyin": "Bie shuohua!",
+        "myanmar": "မပြောပါနဲ့!"
+      },
+      {
+        "chinese": "别担心，没事的。",
+        "pinyin": "Bie danxin, meishi de.",
+        "myanmar": "မပူပါနဲ့၊ ဘာမှမဖြစ်ပါဘူး။"
+      },
+      {
+        "chinese": "别忘了带伞！",
+        "pinyin": "Bie wang le dai san!",
+        "myanmar": "ထီးယူဖို့ မမေ့ပါနဲ့!"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "hsk_level": 1,
+    "pattern": "___让我___。",
+    "pinyin": "___ rang wo ___.",
+    "myanmar": "___ ကျွန်တော့်ကို ___ ခိုင်းပါတယ်/ခွင့်ပြုပါတယ်။ (ခိုင်းစေ/ခွင့်ပြုသောအခါ)",
+    "structure": "နာမ် + 让 (ခိုင်းသည်/ခွင့်ပြုသည်) + 我 + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "老师让我回答问题。",
+        "pinyin": "Laoshi rang wo huida wenti.",
+        "myanmar": "ဆရာ ကျွန်တော့်ကို မေးခွန်းဖြေဖို့ ခိုင်းပါတယ်။"
+      },
+      {
+        "chinese": "请让我过去。",
+        "pinyin": "Qing rang wo guoqu.",
+        "myanmar": "ကျေးဇူးပြု၍ ကျွန်တော့်ကို ဖြတ်သွားခွင့်ပြုပါ။"
+      },
+      {
+        "chinese": "妈妈让我早点回家。",
+        "pinyin": "Mama rang wo zao dian hui jia.",
+        "myanmar": "အမေ ကျွန်တော့်ကို စောစောအိမ်ပြန်ဖို့ ခိုင်းပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "hsk_level": 1,
+    "pattern": "___帮我___。",
+    "pinyin": "___ bang wo ___.",
+    "myanmar": "___ ကျွန်တော့်ကို ___ ကူညီပါ/ကူညီပါတယ်။ (ကူညီမှု တောင်း/ဖော်ပြသောအခါ)",
+    "structure": "帮 (ကူညီသည်) + 我 + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "请帮我拿一下。",
+        "pinyin": "Qing bang wo na yixia.",
+        "myanmar": "ကျေးဇူးပြု၍ ကျွန်တော့်ကို ကိုင်ပေးပါ။"
+      },
+      {
+        "chinese": "你能帮我翻译吗？",
+        "pinyin": "Ni neng bang wo fanyi ma?",
+        "myanmar": "မင်း ကျွန်တော့်ကို ဘာသာပြန်ပေးနိုင်မလား?"
+      },
+      {
+        "chinese": "谢谢你帮我！",
+        "pinyin": "Xie xie ni bang wo!",
+        "myanmar": "ကျွန်တော့်ကို ကူညီတဲ့အတွက် ကျေးဇူးတင်ပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "hsk_level": 1,
+    "pattern": "___给我___。",
+    "pinyin": "___ gei wo ___.",
+    "myanmar": "___ ကျွန်တော့်ကို ___ ပေးပါ/ပေးပါတယ်။ (ပေးသောအခါ)",
+    "structure": "给 (ပေးသည်) + 我 + နာမ်",
+    "examples": [
+      {
+        "chinese": "请给我一杯水。",
+        "pinyin": "Qing gei wo yi bei shui.",
+        "myanmar": "ကျေးဇူးပြု၍ ကျွန်တော့်ကို ရေတစ်ခွက် ပေးပါ။"
+      },
+      {
+        "chinese": "给我看看。",
+        "pinyin": "Gei wo kan kan.",
+        "myanmar": "ကျွန်တော့်ကို ကြည့်ခွင့်ပေးပါ။"
+      },
+      {
+        "chinese": "他给了我一本书。",
+        "pinyin": "Ta gei le wo yi ben shu.",
+        "myanmar": "သူ ကျွန်တော့်ကို စာအုပ်တစ်အုပ် ပေးပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "hsk_level": 1,
+    "pattern": "___对___说。",
+    "pinyin": "___ dui ___ shuo.",
+    "myanmar": "___ သည် ___ ကို ပြောပါတယ်။ (ဘယ်သူ့ကို ပြောသည် ဖော်ပြသောအခါ)",
+    "structure": "对 (ကို) + နာမ် + 说 (ပြောသည်)",
+    "examples": [
+      {
+        "chinese": "他对我说谢谢。",
+        "pinyin": "Ta dui wo shuo xie xie.",
+        "myanmar": "သူ ကျွန်တော့်ကို ကျေးဇူးတင်ပါတယ်လို့ ပြောပါတယ်။"
+      },
+      {
+        "chinese": "老师对学生说，好好学习。",
+        "pinyin": "Laoshi dui xuesheng shuo, hao hao xuexi.",
+        "myanmar": "ဆရာ ကျောင်းသားများကို ကြိုးစားပညာသင်ပါလို့ ပြောပါတယ်။"
+      },
+      {
+        "chinese": "请对他说对不起。",
+        "pinyin": "Qing dui ta shuo duibuqi.",
+        "myanmar": "ကျေးဇူးပြု၍ သူ့ကို တောင်းပန်ပါ။"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "hsk_level": 1,
+    "pattern": "___从___到___。",
+    "pinyin": "___ cong ___ dao ___.",
+    "myanmar": "___ ___ မှ ___ သို့ (နေရာ/အချိန် အပိုင်းအခြား ဖော်ပြသောအခါ)",
+    "structure": "从 (မှ) + နေရာ/အချိန် + 到 (သို့) + နေရာ/အချိန်",
+    "examples": [
+      {
+        "chinese": "从北京到上海要多长时间？",
+        "pinyin": "Cong Beijing dao Shanghai yao duo chang shijian.",
+        "myanmar": "ပေကျင်းမှ ရှန်ဟိုင်းသို့ ဘယ်လောက်ကြာမလဲ?"
+      },
+      {
+        "chinese": "从早上到晚上，我都在学习。",
+        "pinyin": "Cong zaoshang dao wanshang, wo dou zai xuexi.",
+        "myanmar": "မနက်မှ ညအထိ ကျွန်တော် ပညာသင်နေပါတယ်။"
+      },
+      {
+        "chinese": "从这里到学校很近。",
+        "pinyin": "Cong zheli dao xuexiao hen jin.",
+        "myanmar": "ဒီနေရာမှ ကျောင်းသို့ အလွန်နီးပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "hsk_level": 1,
+    "pattern": "___为什么___？",
+    "pinyin": "___ weishenme ___?",
+    "myanmar": "___ ဘာကြောင့် ___ လဲ? (အကြောင်းရင်း မေးသောအခါ)",
+    "structure": "为什么 (ဘာကြောင့်) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "你为什么学汉语？",
+        "pinyin": "Ni weishenme xue Hanyu?",
+        "myanmar": "မင်း ဘာကြောင့် တရုတ်ဘာသာ သင်တာလဲ?"
+      },
+      {
+        "chinese": "他为什么没来？",
+        "pinyin": "Ta weishenme mei lai?",
+        "myanmar": "သူ ဘာကြောင့် မလာတာလဲ?"
+      },
+      {
+        "chinese": "因为我喜欢中国文化。",
+        "pinyin": "Yinwei wo xihuan Zhongguo wenhua.",
+        "myanmar": "ကျွန်တော် တရုတ်ယဉ်ကျေးမှုကို ကြိုက်ကြောင့်ဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "hsk_level": 1,
+    "pattern": "___什么时候___？",
+    "pinyin": "___ shenme shihou ___?",
+    "myanmar": "___ ဘယ်အချိန် ___ လဲ? (အချိန် မေးသောအခါ)",
+    "structure": "什么时候 (ဘယ်အချိန်) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "你什么时候来？",
+        "pinyin": "Ni shenme shihou lai?",
+        "myanmar": "မင်း ဘယ်အချိန် လာမလဲ?"
+      },
+      {
+        "chinese": "什么时候吃饭？",
+        "pinyin": "Shenme shihou chifan?",
+        "myanmar": "ဘယ်အချိန် ထမင်းစားမလဲ?"
+      },
+      {
+        "chinese": "我明天下午来。",
+        "pinyin": "Wo mingtian xiawu lai.",
+        "myanmar": "ကျွန်တော် မနက်ဖြန် ညနေ လာပါမယ်။"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "hsk_level": 1,
+    "pattern": "___哪个___？",
+    "pinyin": "___ nage ___?",
+    "myanmar": "___ ဘယ်ဟာ ___ လဲ? (ရွေးချယ်မေးသောအခါ)",
+    "structure": "哪个 (ဘယ်ဟာ) + နာမ်",
+    "examples": [
+      {
+        "chinese": "哪个是你的？",
+        "pinyin": "Nage shi ni de?",
+        "myanmar": "ဘယ်ဟာ မင်းဟာလဲ?"
+      },
+      {
+        "chinese": "你喜欢哪个颜色？",
+        "pinyin": "Ni xihuan nage yanse?",
+        "myanmar": "မင်း ဘယ်အရောင် ကြိုက်လဲ?"
+      },
+      {
+        "chinese": "哪个更好？",
+        "pinyin": "Nage geng hao?",
+        "myanmar": "ဘယ်ဟာ ပိုကောင်းလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "hsk_level": 1,
+    "pattern": "___怎么了？",
+    "pinyin": "___ zenme le?",
+    "myanmar": "___ ဘာဖြစ်သွားလဲ? (ဘာဖြစ်သွားသည် မေးသောအခါ)",
+    "structure": "နာမ် + 怎么了 (ဘာဖြစ်သွားလဲ)",
+    "examples": [
+      {
+        "chinese": "你怎么了？我头疼。",
+        "pinyin": "Ni zenme le? Wo touteng.",
+        "myanmar": "မင်း ဘာဖြစ်သွားလဲ? ကျွန်တော် ခေါင်းကိုက်ပါတယ်။"
+      },
+      {
+        "chinese": "他怎么了？他生病了。",
+        "pinyin": "Ta zenme le? Ta shengbing le.",
+        "myanmar": "သူ ဘာဖြစ်သွားလဲ? သူ နာမကျန်းဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "手机怎么了？坏了。",
+        "pinyin": "Shouji zenme le? Huai le.",
+        "myanmar": "ဖုန်း ဘာဖြစ်သွားလဲ? ပျက်သွားပြီ။"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "hsk_level": 1,
+    "pattern": "___没关系，下次___。",
+    "pinyin": "___ mei guanxi, xia ci ___.",
+    "myanmar": "ကိစ္စမရှိပါဘူး၊ နောက်တစ်ကြိမ် ___ပါ။ (တစ်ဦးကို ဖြေသိမ့်သောအခါ)",
+    "structure": "没关系 (ကိစ္စမရှိ) + 下次 (နောက်တစ်ကြိမ်) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "没关系，下次注意就好了。",
+        "pinyin": "Mei guanxi, xia ci zhuyi jiu hao le.",
+        "myanmar": "ကိစ္စမရှိပါဘူး၊ နောက်တစ်ကြိမ် သတိထားရင် ရပါပြီ။"
+      },
+      {
+        "chinese": "没关系，下次再来。",
+        "pinyin": "Mei guanxi, xia ci zai lai.",
+        "myanmar": "ကိစ္စမရှိပါဘူး၊ နောက်တစ်ကြိမ် ထပ်လာပါ။"
+      },
+      {
+        "chinese": "没关系，慢慢来。",
+        "pinyin": "Mei guanxi, manman lai.",
+        "myanmar": "ကိစ္စမရှိပါဘူး၊ တဖြည်းဖြည်း ဆောင်ရွက်ပါ။"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "hsk_level": 1,
+    "pattern": "___好久不见！",
+    "pinyin": "___ hao jiu bu jian!",
+    "myanmar": "ကြာပြီ မတွေ့ဖြစ်ဘူး! (ကြာကြာ မတွေ့ဖြစ်သောသူနှင့် တွေ့သောအခါ)",
+    "structure": "好久 (ကြာသော) + 不见 (မတွေ့) = ကြာပြီ မတွေ့ဖြစ်ဘူး",
+    "examples": [
+      {
+        "chinese": "好久不见！你好吗？",
+        "pinyin": "Hao jiu bu jian! Ni hao ma?",
+        "myanmar": "ကြာပြီ မတွေ့ဖြစ်ဘူး! မင်း ကောင်းနေလား?"
+      },
+      {
+        "chinese": "好久不见，你变了很多！",
+        "pinyin": "Hao jiu bu jian, ni bian le hen duo!",
+        "myanmar": "ကြာပြီ မတွေ့ဖြစ်ဘူး၊ မင်း အများကြီး ပြောင်းသွားပြီ!"
+      },
+      {
+        "chinese": "是啊，好久不见了！",
+        "pinyin": "Shi a, hao jiu bu jian le!",
+        "myanmar": "ဟုတ်တယ်၊ ကြာပြီ မတွေ့ဖြစ်ဘူး!"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "hsk_level": 1,
+    "pattern": "___保重！",
+    "pinyin": "___ baozhong!",
+    "myanmar": "ကျန်းမာပါစေ! (ကွဲကွာသောအခါ ဂရုစိုက်ဖို့ ဆုမွန်ကောင်းတောင်းသောအခါ)",
+    "structure": "保重 (ကျန်းမာပါစေ)",
+    "examples": [
+      {
+        "chinese": "再见，保重！",
+        "pinyin": "Zaijian, baozhong!",
+        "myanmar": "ဂုဒ်ဘိုင်၊ ကျန်းမာပါစေ!"
+      },
+      {
+        "chinese": "天冷了，注意保重。",
+        "pinyin": "Tian leng le, zhuyi baozhong.",
+        "myanmar": "ရာသီဥတု အေးလာပြီ၊ ကျန်းမာရေး ဂရုစိုက်ပါ။"
+      },
+      {
+        "chinese": "你也保重！",
+        "pinyin": "Ni ye baozhong!",
+        "myanmar": "မင်းလည်း ကျန်းမာပါစေ!"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "hsk_level": 1,
+    "pattern": "___生日快乐！",
+    "pinyin": "___ shengri kuaile!",
+    "myanmar": "မွေးနေ့မင်္ဂလာ! (မွေးနေ့ ဆုမွန်ကောင်းတောင်းသောအခါ)",
+    "structure": "生日 (မွေးနေ့) + 快乐 (ပျော်ရွှင်ပါစေ)",
+    "examples": [
+      {
+        "chinese": "生日快乐！祝你身体健康！",
+        "pinyin": "Shengri kuaile! Zhu ni shenti jiankang!",
+        "myanmar": "မွေးနေ့မင်္ဂလာ! ကျန်းမာချမ်းသာပါစေ!"
+      },
+      {
+        "chinese": "今天是我的生日。",
+        "pinyin": "Jintian shi wo de shengri.",
+        "myanmar": "ဒီနေ့ ကျွန်တော့်မွေးနေ့ ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "谢谢你记得我的生日！",
+        "pinyin": "Xie xie ni jide wo de shengri!",
+        "myanmar": "ကျွန်တော့်မွေးနေ့ မှတ်မိတဲ့အတွက် ကျေးဇူးတင်ပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "hsk_level": 1,
+    "pattern": "___新年快乐！",
+    "pinyin": "___ xinnian kuaile!",
+    "myanmar": "နှစ်သစ်မင်္ဂလာ! (နှစ်သစ်ကူး ဆုမွန်ကောင်းတောင်းသောအခါ)",
+    "structure": "新年 (နှစ်သစ်) + 快乐 (ပျော်ရွှင်ပါစေ)",
+    "examples": [
+      {
+        "chinese": "新年快乐！万事如意！",
+        "pinyin": "Xinnian kuaile! Wanshi ruyi!",
+        "myanmar": "နှစ်သစ်မင်္ဂလာ! ဆန္ဒများ ပြည့်ဝပါစေ!"
+      },
+      {
+        "chinese": "春节快乐！",
+        "pinyin": "Chunjie kuaile!",
+        "myanmar": "တရုတ်နှစ်သစ်မင်္ဂလာ!"
+      },
+      {
+        "chinese": "祝你新年快乐，身体健康！",
+        "pinyin": "Zhu ni xinnian kuaile, shenti jiankang!",
+        "myanmar": "မင်းကို နှစ်သစ်မင်္ဂလာနှင့် ကျန်းမာချမ်းသာပါစေလို့ ဆုတောင်းပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "hsk_level": 1,
+    "pattern": "___祝你___！",
+    "pinyin": "___ zhu ni ___!",
+    "myanmar": "မင်းကို ___ ဆုတောင်းပါတယ်! (ဆုမွန်ကောင်းတောင်းသောအခါ)",
+    "structure": "祝 (ဆုတောင်းသည်) + 你 + ဆုမွန်",
+    "examples": [
+      {
+        "chinese": "祝你一切顺利！",
+        "pinyin": "Zhu ni yiqie shunli!",
+        "myanmar": "မင်းကို အရာရာ ချောမွေ့ပါစေလို့ ဆုတောင်းပါတယ်!"
+      },
+      {
+        "chinese": "祝你考试顺利！",
+        "pinyin": "Zhu ni kaoshi shunli!",
+        "myanmar": "မင်းကို စာမေးပွဲ ကောင်းကောင်းဖြေနိုင်ပါစေလို့ ဆုတောင်းပါတယ်!"
+      },
+      {
+        "chinese": "祝你身体健康，万事如意！",
+        "pinyin": "Zhu ni shenti jiankang, wanshi ruyi!",
+        "myanmar": "မင်းကို ကျန်းမာချမ်းသာပြီး ဆန္ဒများ ပြည့်ဝပါစေလို့ ဆုတောင်းပါတယ်!"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "hsk_level": 1,
+    "pattern": "___不用___。",
+    "pinyin": "___ buyong ___.",
+    "myanmar": "___ မလိုဘူး/မလုပ်ရဘူး။ (မလိုအပ်ကြောင်း ဖော်ပြသောအခါ)",
+    "structure": "不用 (မလိုဘူး) + ကြိယာ",
+    "examples": [
+      {
+        "chinese": "不用谢！",
+        "pinyin": "Buyong xie!",
+        "myanmar": "ကျေးဇူးတင်စရာ မလိုဘူး!"
+      },
+      {
+        "chinese": "不用担心，我来帮你。",
+        "pinyin": "Buyong danxin, wo lai bang ni.",
+        "myanmar": "မပူပါနဲ့၊ ကျွန်တော် ကူညီပါမယ်။"
+      },
+      {
+        "chinese": "不用了，我自己来。",
+        "pinyin": "Buyong le, wo ziji lai.",
+        "myanmar": "မလိုဘူး၊ ကျွန်တော် ကိုယ်တိုင် လုပ်ပါမယ်။"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "hsk_level": 1,
+    "pattern": "___随便。",
+    "pinyin": "___ suibian.",
+    "myanmar": "ဘာမဆို ရပါတယ်/ကိုယ်ကြိုက်ရာ ရွေးပါ။ (ဂရုမစိုက်ကြောင်း ဖော်ပြသောအခါ)",
+    "structure": "随便 (ဘာမဆို ရပါတယ်)",
+    "examples": [
+      {
+        "chinese": "你想吃什么？随便。",
+        "pinyin": "Ni xiang chi shenme? Suibian.",
+        "myanmar": "မင်း ဘာစားချင်လဲ? ဘာမဆို ရပါတယ်။"
+      },
+      {
+        "chinese": "随便坐。",
+        "pinyin": "Suibian zuo.",
+        "myanmar": "ကြိုက်ရာ ထိုင်ပါ။"
+      },
+      {
+        "chinese": "随便你。",
+        "pinyin": "Suibian ni.",
+        "myanmar": "မင်းကြိုက်ရာ ဆောင်ရွက်ပါ။"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "hsk_level": 1,
+    "pattern": "___差不多。",
+    "pinyin": "___ chabuduo.",
+    "myanmar": "___ တော်တော်ဆင်တူပါတယ်/ခန့်မှန်းအားဖြင့်ပါ။ (ခန့်မှန်းသောအခါ)",
+    "structure": "差不多 (ခန့်မှန်းအားဖြင့်/ဆင်တူ)",
+    "examples": [
+      {
+        "chinese": "差不多了，再等一下。",
+        "pinyin": "Chabuduo le, zai deng yixia.",
+        "myanmar": "တော်တော်ပြီးပြီ၊ နည်းနည်း ထပ်စောင့်ပါ။"
+      },
+      {
+        "chinese": "我们差不多同岁。",
+        "pinyin": "Women chabuduo tong sui.",
+        "myanmar": "ကျွန်တော်တို့ တော်တော်ဆင်တူတဲ့ အသက် ရှိပါတယ်။"
+      },
+      {
+        "chinese": "差不多五点了。",
+        "pinyin": "Chabuduo wu dian le.",
+        "myanmar": "ခန့်မှန်းအားဖြင့် ငါးနာရီ ရှိပြီ။"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "hsk_level": 1,
+    "pattern": "___当然！",
+    "pinyin": "___ dangran!",
+    "myanmar": "ဟုတ်ကဲ့ ဟုတ်ပါတယ်!/သဘာဝကျပါတယ်! (ခိုင်မာစွာ သဘောတူသောအခါ)",
+    "structure": "当然 (ဟုတ်ကဲ့ ဟုတ်ပါတယ်)",
+    "examples": [
+      {
+        "chinese": "你喜欢中国吗？当然！",
+        "pinyin": "Ni xihuan Zhongguo ma? Dangran!",
+        "myanmar": "မင်း တရုတ်နိုင်ငံကို ကြိုက်လား? ဟုတ်ကဲ့ ကြိုက်ပါတယ်!"
+      },
+      {
+        "chinese": "当然可以！",
+        "pinyin": "Dangran keyi!",
+        "myanmar": "ဟုတ်ကဲ့ ရပါတယ်!"
+      },
+      {
+        "chinese": "当然了，这是我的工作。",
+        "pinyin": "Dangran le, zhe shi wo de gongzuo.",
+        "myanmar": "ဟုတ်ကဲ့ ဟုတ်ပါတယ်၊ ဒါ ကျွန်တော့်အလုပ်ဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "hsk_level": 1,
+    "pattern": "___没问题！",
+    "pinyin": "___ mei wenti!",
+    "myanmar": "ပြဿနာမရှိပါဘူး!/ရပါတယ်! (ဆောင်ရွက်နိုင်ကြောင်း ဖော်ပြသောအခါ)",
+    "structure": "没问题 (ပြဿနာမရှိ)",
+    "examples": [
+      {
+        "chinese": "你能帮我吗？没问题！",
+        "pinyin": "Ni neng bang wo ma? Mei wenti!",
+        "myanmar": "မင်း ကျွန်တော့်ကို ကူညီနိုင်မလား? ပြဿနာမရှိပါဘူး!"
+      },
+      {
+        "chinese": "明天你能来吗？没问题！",
+        "pinyin": "Mingtian ni neng lai ma? Mei wenti!",
+        "myanmar": "မနက်ဖြန် မင်း လာနိုင်မလား? ပြဿနာမရှိပါဘူး!"
+      },
+      {
+        "chinese": "没问题，交给我吧。",
+        "pinyin": "Mei wenti, jiao gei wo ba.",
+        "myanmar": "ပြဿနာမရှိပါဘူး၊ ကျွန်တော့်ကို အပ်နှင်းပါ။"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "hsk_level": 1,
+    "pattern": "___一点儿___。",
+    "pinyin": "___ yidianr ___.",
+    "myanmar": "___ နည်းနည်း ___ ပါတယ်။ (ပမာဏနည်းကြောင်း ဖော်ပြသောအခါ)",
+    "structure": "ကြိယာ + 一点儿 (နည်းနည်း) + နာမ်",
+    "examples": [
+      {
+        "chinese": "我会说一点儿汉语。",
+        "pinyin": "Wo hui shuo yidianr Hanyu.",
+        "myanmar": "ကျွန်တော် တရုတ်စကား နည်းနည်း ပြောတတ်ပါတယ်။"
+      },
+      {
+        "chinese": "我吃了一点儿米饭。",
+        "pinyin": "Wo chi le yidianr mifan.",
+        "myanmar": "ကျွန်တော် ထမင်း နည်းနည်း စားခဲ့ပါတယ်။"
+      },
+      {
+        "chinese": "请给我一点儿水。",
+        "pinyin": "Qing gei wo yidianr shui.",
+        "myanmar": "ကျေးဇူးပြု၍ ကျွန်တော့်ကို ရေနည်းနည်း ပေးပါ။"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "hsk_level": 1,
+    "pattern": "___跟___见面。",
+    "pinyin": "___ gen ___ jianmian.",
+    "myanmar": "___ သည် ___ နှင့် တွေ့ဆုံပါတယ်။ (တစ်ဦးနှင့်တစ်ဦး တွေ့ဆုံသောအခါ)",
+    "structure": "A + 跟 (နှင့်) + B + 见面 (တွေ့ဆုံသည်)",
+    "examples": [
+      {
+        "chinese": "明天我要跟朋友见面。",
+        "pinyin": "Mingtian wo yao gen pengyou jianmian.",
+        "myanmar": "မနက်ဖြန် ကျွန်တော် သူငယ်ချင်းနှင့် တွေ့ဆုံပါမယ်။"
+      },
+      {
+        "chinese": "我很高兴跟你见面。",
+        "pinyin": "Wo hen gaoxing gen ni jianmian.",
+        "myanmar": "ကျွန်တော် မင်းနှင့် တွေ့ရတာ ဝမ်းသာပါတယ်။"
+      },
+      {
+        "chinese": "我们什么时候见面？",
+        "pinyin": "Women shenme shihou jianmian?",
+        "myanmar": "ကျွန်တော်တို့ ဘယ်အချိန် တွေ့ဆုံမလဲ?"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "hsk_level": 1,
+    "pattern": "___先___，然后___。",
+    "pinyin": "___ xian ___, ranhou ___.",
+    "myanmar": "___ အရင် ___ လုပ်ပြီး၊ နောက်မှ ___ လုပ်မယ်။ (အစဉ်လိုက် လုပ်ဆောင်သောအခါ)",
+    "structure": "先 (အရင်) + ကြိယာ 1，然后 (နောက်မှ/ပြီးမှ) + ကြိယာ 2",
+    "examples": [
+      {
+        "chinese": "我先吃饭，然后看书。",
+        "pinyin": "Wo xian chifan, ranhou kan shu.",
+        "myanmar": "ကျွန်တော် အရင် ထမင်းစားပြီး၊ နောက်မှ စာဖတ်ပါတယ်။"
+      },
+      {
+        "chinese": "我们先去买东西，然后回家。",
+        "pinyin": "Women xian qu mai dongxi, ranhou hui jia.",
+        "myanmar": "ကျွန်တော်တို့ အရင် ဈေးဝယ်သွားပြီး၊ နောက်မှ အိမ်ပြန်ပါတယ်။"
+      },
+      {
+        "chinese": "你先洗手，然后吃饭。",
+        "pinyin": "Ni xian xishou, ranhou chifan.",
+        "myanmar": "မင်း အရင် လက်ဆေးပြီး၊ နောက်မှ ထမင်းစားပါ။"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "hsk_level": 1,
+    "pattern": "___一边___一边___。",
+    "pinyin": "___ yibian ___ yibian ___.",
+    "myanmar": "___ တစ်ဖက်က ___ လုပ်ရင်း၊ တစ်ဖက်က ___ လုပ်ပါတယ်။ (တစ်ပြိုင်နက်တည်း လုပ်ဆောင်သောအခါ)",
+    "structure": "一边 (တစ်ဖက်က) + ကြိယာ 1 + 一边 (တစ်ဖက်က) + ကြိယာ 2",
+    "examples": [
+      {
+        "chinese": "他一边吃饭一边看电视。",
+        "pinyin": "Ta yibian chifan yibian kan dianshi.",
+        "myanmar": "သူ တစ်ဖက်က ထမင်းစားရင်း၊ တစ်ဖက်က တီဗီကြည့်ပါတယ်။"
+      },
+      {
+        "chinese": "我喜欢一边听音乐一边看书。",
+        "pinyin": "Wo xihuan yibian ting yinyue yibian kan shu.",
+        "myanmar": "ကျွန်တော် တစ်ဖက်က သီချင်းနားထောင်ရင်း၊ တစ်ဖက်က စာဖတ်တာ ကြိုက်ပါတယ်။"
+      },
+      {
+        "chinese": "别一边走路一边看手机。",
+        "pinyin": "Bie yibian zoulu yibian kan shouji.",
+        "myanmar": "လမ်းလျှောက်ရင်း ဖုန်းမကြည့်ပါနဲ့။"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "hsk_level": 1,
+    "pattern": "___虽然___，但是___。",
+    "pinyin": "___ suiran ___, danshi ___.",
+    "myanmar": "___ ဆိုပေမယ့်၊ သို့သော်လည်း ___ ဖြစ်ပါတယ်။ (ဆန့်ကျင်ဘက် အခြေအနေ ဖော်ပြသောအခါ)",
+    "structure": "虽然 (ဆိုပေမယ့်) + အကြောင်းပြချက်，但是 (သို့သော်) + ရလဒ်",
+    "examples": [
+      {
+        "chinese": "虽然很累，但是我很高兴。",
+        "pinyin": "Suiran hen lei, danshi wo hen gaoxing.",
+        "myanmar": "ပင်ပန်းပေမယ့်၊ ကျွန်တော် ဝမ်းသာပါတယ်။"
+      },
+      {
+        "chinese": "虽然下雨了，但是我们还是去了。",
+        "pinyin": "Suiran xia yu le, danshi women haishi qu le.",
+        "myanmar": "မိုးရွာပေမယ့်၊ ကျွန်တော်တို့ သွားခဲ့ပါတယ်။"
+      },
+      {
+        "chinese": "虽然这很贵，但是很好吃。",
+        "pinyin": "Suiran zhe hen gui, danshi hen haochi.",
+        "myanmar": "ဒါ ဈေးကြီးပေမယ့်၊ အရသာ အရမ်းကောင်းပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "hsk_level": 1,
+    "pattern": "___如果___，就___。",
+    "pinyin": "___ ruguo ___, jiu ___.",
+    "myanmar": "အကယ်၍ ___ ရင်၊ ___ မည်။ (အခြေအနေပေး၍ ရလဒ် ဖော်ပြသောအခါ)",
+    "structure": "如果 (အကယ်၍) + အခြေအနေ，就 (တော့/မည်) + ရလဒ်",
+    "examples": [
+      {
+        "chinese": "如果你去，我就去。",
+        "pinyin": "Ruguo ni qu, wo jiu qu.",
+        "myanmar": "အကယ်၍ မင်းသွားရင်၊ ကျွန်တော် သွားပါမယ်။"
+      },
+      {
+        "chinese": "如果有时间，我就来看你。",
+        "pinyin": "Ruguo you shijian, wo jiu lai kan ni.",
+        "myanmar": "အကယ်၍ အချိန်ရှိရင်၊ ကျွန်တော် မင်းကို လာတွေ့ပါမယ်။"
+      },
+      {
+        "chinese": "如果下雨，我就不去了。",
+        "pinyin": "Ruguo xia yu, wo jiu bu qu le.",
+        "myanmar": "အကယ်၍ မိုးရွာရင်၊ ကျွန်တော် မသွားတော့ဘူး။"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "hsk_level": 1,
+    "pattern": "___为了___。",
+    "pinyin": "___ weile ___.",
+    "myanmar": "___ အတွက် ___ လုပ်ပါတယ်။ (ရည်ရွယ်ချက် ဖော်ပြသောအခါ)",
+    "structure": "为了 (အတွက်/ရည်ရွယ်၍) + ရည်ရွယ်ချက်，... + လုပ်ဆောင်ချက်",
+    "examples": [
+      {
+        "chinese": "为了健康，我每天跑步。",
+        "pinyin": "Weile jiankang, wo meitian paobu.",
+        "myanmar": "ကျန်းမာရေးအတွက်၊ ကျွန်တော် နေ့တိုင်း ပြေးပါတယ်။"
+      },
+      {
+        "chinese": "为了学汉语，我去了中国。",
+        "pinyin": "Weile xue Hanyu, wo qu le Zhongguo.",
+        "myanmar": "တရုတ်စာ သင်ဖို့အတွက်၊ ကျွန်တော် တရုတ်ပြည် သွားခဲ့ပါတယ်။"
+      },
+      {
+        "chinese": "这是为了你好。",
+        "pinyin": "Zhe shi weile ni hao.",
+        "myanmar": "ဒါ မင်းကောင်းဖို့အတွက် ဖြစ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "hsk_level": 1,
+    "pattern": "___除了___，还___。",
+    "pinyin": "___ chule ___, hai ___.",
+    "myanmar": "___ အပြင်၊ ___ လည်း ရှိပါသေးတယ်။ (ထပ်ဖြည့် ဖော်ပြသောအခါ)",
+    "structure": "除了 (အပြင်) + A，还 (လည်း) + B",
+    "examples": [
+      {
+        "chinese": "除了苹果，我还喜欢香蕉。",
+        "pinyin": "Chule pingguo, wo hai xihuan xiangjiao.",
+        "myanmar": "ပန်းသီးအပြင်၊ ကျွန်တော် ငှက်ပျောသီးလည်း ကြိုက်ပါတယ်။"
+      },
+      {
+        "chinese": "除了他，大家都来了。",
+        "pinyin": "Chule ta, dajia dou lai le.",
+        "myanmar": "သူကလွဲလို့၊ အားလုံး လာကြပါတယ်။ (ဒီနေရာတွင် အဓိပ္ပာယ် ကွဲပြားနိုင်သည်)"
+      },
+      {
+        "chinese": "除了汉语，我还会说英语。",
+        "pinyin": "Chule Hanyu, wo hai hui shuo Yingyu.",
+        "myanmar": "တရုတ်စကားအပြင်၊ ကျွန်တော် အင်္ဂလိပ်စကားလည်း ပြောတတ်ပါတယ်။"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "hsk_level": 1,
+    "pattern": "___只要___，就___。",
+    "pinyin": "___ zhiyao ___, jiu ___.",
+    "myanmar": "___ သာလျှင် ___ မည်။ (လိုအပ်ချက်တစ်ခုတည်း ဖော်ပြသောအခါ)",
+    "structure": "只要 (သာလျှင်) + လိုအပ်ချက်，就 (တော့/မည်) + ရလဒ်",
+    "examples": [
+      {
+        "chinese": "只要努力，就能成功。",
+        "pinyin": "Zhiyao nuli, jiu neng chenggong.",
+        "myanmar": "ကြိုးစားရင်သာ၊ အောင်မြင်နိုင်မယ်။"
+      },
+      {
+        "chinese": "只要你喜欢，我就买。",
+        "pinyin": "Zhiyao ni xihuan, wo jiu mai.",
+        "myanmar": "မင်းကြိုက်ရင်သာ၊ ကျွန်တော် ဝယ်မယ်။"
+      },
+      {
+        "chinese": "只要不下雨，我们就去。",
+        "pinyin": "Zhiyao bu xia yu, women jiu qu.",
+        "myanmar": "မိုးမရွာရင်သာ၊ ကျွန်တော်တို့ သွားမယ်။"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "hsk_level": 1,
+    "pattern": "___关于___。",
+    "pinyin": "___ guanyu ___.",
+    "myanmar": "___ နှင့် ပတ်သက်၍ ___ ။ (အကြောင်းအရာ ဖော်ပြသောအခါ)",
+    "structure": "关于 (နှင့်ပတ်သက်၍) + အကြောင်းအရာ",
+    "examples": [
+      {
+        "chinese": "这是一本关于中国的书。",
+        "pinyin": "Zhe shi yi ben guanyu Zhongguo de shu.",
+        "myanmar": "ဒါ တရုတ်ပြည်နှင့် ပတ်သက်တဲ့ စာအုပ်တစ်အုပ် ဖြစ်ပါတယ်။"
+      },
+      {
+        "chinese": "关于这件事，我不知道。",
+        "pinyin": "Guanyu zhe jian shi, wo bu zhidao.",
+        "myanmar": "ဒီကိစ္စနှင့် ပတ်သက်ပြီး၊ ကျွန်တော် မသိဘူး။"
+      },
+      {
+        "chinese": "我想问一些关于工作的问题。",
+        "pinyin": "Wo xiang wen yixie guanyu gongzuo de wenti.",
+        "myanmar": "ကျွန်တော် အလုပ်နှင့် ပတ်သက်တဲ့ မေးခွန်းအချို့ မေးချင်ပါတယ်။"
+      }
+    ]
+  }
+]
