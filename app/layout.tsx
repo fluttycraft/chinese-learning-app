@@ -16,8 +16,8 @@ export const metadata = {
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000",
   ),
-  title: "Khai-Pattern-Hub",
-  description: "Learn English with Khai - Your AI Language Companion",
+  title: "Chinese-Journey",
+  description: "Learn Chinese with Khai - Your AI Language Companion",
   icons: {
     icon: [{ url: "/favicon-196.png", sizes: "196x196", type: "image/png" }],
     apple: [{ url: "/apple-icon-180.png" }],
