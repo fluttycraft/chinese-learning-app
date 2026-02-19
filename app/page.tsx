@@ -10,12 +10,40 @@ import {
   EyeOff,
   BookOpen,
   MessageSquare,
+  X,
+  Lightbulb,
 } from "lucide-react";
 
 import vocabData from "@/data/vocab.json";
 import patternsData from "@/data/patterns.json";
 
 type Tab = "vocab" | "patterns";
+
+interface Usage {
+  title: string;
+  meaning: string;
+  grammar_pattern: string;
+  daily_examples: {
+    label: string;
+    chinese: string;
+    pinyin: string;
+    myanmar: string;
+  }[];
+  work_examples: {
+    chinese: string;
+    pinyin: string;
+    myanmar: string;
+  }[];
+}
+
+interface VocabItem {
+  id: number;
+  word: string;
+  pinyin: string;
+  myanmar: string;
+  hsk_level: number;
+  usage?: Usage;
+}
 
 interface Pattern {
   id: number;
@@ -31,16 +59,13 @@ export default function ChineseLearningApp() {
   const [activeTab, setActiveTab] = useState<Tab>("vocab");
   const [activeItem, setActiveItem] = useState<number | null>(null);
   const [hskLevel, setHskLevel] = useState<number>(1);
-  const [showHskFilter, setShowHskFilter] = useState<boolean>(false);
   const [showChinese, setShowChinese] = useState<boolean>(true);
   const [activePattern, setActivePattern] = useState<number | null>(null);
+  const [usageModalItem, setUsageModalItem] = useState<VocabItem | null>(null);
 
   const items = useMemo(() => {
-    if (showHskFilter) {
-      return vocabData.filter((item) => item.hsk_level === hskLevel);
-    }
-    return vocabData;
-  }, [showHskFilter, hskLevel]);
+    return (vocabData as unknown as VocabItem[]).filter((item) => item.hsk_level === hskLevel);
+  }, [hskLevel]);
 
   const patterns = useMemo(() => {
     return (patternsData as Pattern[]).filter((p) => p.hsk_level === 1);
@@ -99,23 +124,13 @@ export default function ChineseLearningApp() {
                 >
                   {showChinese ? <Eye size={18} /> : <EyeOff size={18} />}
                 </button>
-                <button
-                  onClick={() => { setShowHskFilter(!showHskFilter); setActiveItem(null); }}
-                  className={`flex items-center gap-1.5 px-3 py-2 rounded-xl border text-[10px] uppercase tracking-wider font-bold transition-all ${
-                    showHskFilter
-                      ? "bg-cyan-600 border-cyan-500 text-white shadow-lg"
-                      : "bg-slate-800/50 border-slate-700 text-slate-400 hover:text-slate-200"
-                  }`}
-                >
-                  <GraduationCap size={14} />
-                  HSK
-                </button>
+
               </>
             )}
           </div>
 
           {/* HSK Level Selector (vocab tab only) */}
-          {activeTab === "vocab" && showHskFilter && (
+          {activeTab === "vocab" && (
             <div className="flex gap-2 overflow-x-auto pb-2 no-scrollbar">
               {[1, 2, 3, 4, 5, 6].map((level) => (
                 <button
@@ -146,7 +161,7 @@ export default function ChineseLearningApp() {
         {activeTab === "vocab" && (
           <div className="space-y-3 pb-32">
             {items.length > 0 ? (
-              items.map((item, index: number) => (
+              items.map((item, index) => (
                 <div
                   key={item.id}
                   onClick={() => setActiveItem(activeItem === index ? null : index)}
@@ -185,12 +200,23 @@ export default function ChineseLearningApp() {
                             <p className="text-xs text-slate-400 mb-1">Pinyin</p>
                             <p className="text-lg text-white font-medium">{item.pinyin}</p>
                           </div>
-                          <button
-                            onClick={(e) => handlePlayAudio(item.word, e)}
-                            className="w-12 h-12 flex items-center justify-center rounded-full bg-cyan-600 hover:bg-cyan-500 text-white shadow-lg transition-transform active:scale-95"
-                          >
-                            <Play className="w-5 h-5 ml-1" fill="currentColor" />
-                          </button>
+                          <div className="flex items-center gap-2">
+                            {item.usage && (
+                              <button
+                                onClick={(e) => { e.stopPropagation(); setUsageModalItem(item); }}
+                                className="w-12 h-12 flex items-center justify-center rounded-full bg-amber-600 hover:bg-amber-500 text-white shadow-lg transition-transform active:scale-95"
+                                title="Usage"
+                              >
+                                <Lightbulb className="w-5 h-5" />
+                              </button>
+                            )}
+                            <button
+                              onClick={(e) => handlePlayAudio(item.word, e)}
+                              className="w-12 h-12 flex items-center justify-center rounded-full bg-cyan-600 hover:bg-cyan-500 text-white shadow-lg transition-transform active:scale-95"
+                            >
+                              <Play className="w-5 h-5 ml-1" fill="currentColor" />
+                            </button>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -289,10 +315,10 @@ export default function ChineseLearningApp() {
             <div className="bg-[#1e293b]/90 border border-slate-600/50 text-white rounded-2xl shadow-2xl p-4 w-full max-w-md flex items-center justify-between pointer-events-auto backdrop-blur-xl">
               <div className="flex flex-col">
                 <span className="text-[10px] text-slate-400 uppercase tracking-widest font-bold">
-                  {showHskFilter ? `HSK Level ${hskLevel}` : "Vocabulary"}
+                  {`HSK Level ${hskLevel}`}
                 </span>
                 <span className={`font-bold transition-all ${showChinese ? "text-cyan-400" : "text-slate-500 italic"}`}>
-                  {showChinese ? items[activeItem]?.word : "Character Hidden"}
+                  {showChinese ? (items[activeItem]?.word as string) : "Character Hidden"}
                 </span>
               </div>
               <div className="flex items-center gap-3">
@@ -309,6 +335,100 @@ export default function ChineseLearningApp() {
             </div>
           </div>
         )}
+
+        {/* ── USAGE MODAL ── */}
+        {usageModalItem && (() => {
+          const usage = usageModalItem.usage;
+          if (!usage) return null;
+          return (
+            <div
+              className="fixed inset-0 z-[100] flex items-end sm:items-center justify-center p-0 sm:p-4"
+              onClick={() => setUsageModalItem(null)}
+            >
+              {/* Backdrop */}
+              <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" />
+              {/* Modal */}
+              <div
+                className="relative w-full sm:max-w-lg max-h-[90vh] bg-[#1e293b] border border-slate-600/50 rounded-t-2xl sm:rounded-2xl shadow-2xl overflow-hidden flex flex-col animate-in"
+                onClick={(e) => e.stopPropagation()}
+              >
+                {/* Header */}
+                <div className="flex items-center justify-between p-4 border-b border-slate-700/50 bg-slate-800/50">
+                  <div className="flex items-center gap-2 min-w-0">
+                    <Lightbulb className="w-5 h-5 text-amber-400 flex-shrink-0" />
+                    <h2 className="text-base font-bold text-amber-300 truncate">{usage.title}</h2>
+                  </div>
+                  <button
+                    onClick={() => setUsageModalItem(null)}
+                    className="w-8 h-8 flex items-center justify-center rounded-full bg-slate-700 hover:bg-slate-600 text-slate-300 transition-colors flex-shrink-0"
+                  >
+                    <X className="w-4 h-4" />
+                  </button>
+                </div>
+                {/* Body */}
+                <div className="overflow-y-auto p-4 space-y-4 flex-1">
+                  {/* Meaning */}
+                  <div className="bg-amber-950/20 rounded-lg p-3 border border-amber-800/30">
+                    <p className="text-[10px] text-amber-400 uppercase tracking-widest font-bold mb-1">အဓိပ္ပါယ် (Meaning)</p>
+                    <p className="text-sm text-slate-300 leading-relaxed">{usage.meaning}</p>
+                  </div>
+                  {/* Grammar Pattern */}
+                  <div className="bg-violet-950/20 rounded-lg p-3 border border-violet-800/30">
+                    <p className="text-[10px] text-violet-400 uppercase tracking-widest font-bold mb-1">Grammar Pattern</p>
+                    <p className="text-sm text-slate-300 whitespace-pre-line leading-relaxed">{usage.grammar_pattern}</p>
+                  </div>
+                  {/* Daily Examples */}
+                  <div>
+                    <p className="text-[10px] text-cyan-400 uppercase tracking-widest font-bold mb-2">နေ့စဉ်သုံးစကားပြော (Daily)</p>
+                    <div className="space-y-2">
+                      {usage.daily_examples.map((ex: { label: string; chinese: string; pinyin: string; myanmar: string }, i: number) => (
+                        <div key={i} className="bg-slate-900/50 rounded-lg p-3 border border-slate-700/50">
+                          <p className="text-[10px] text-slate-500 uppercase tracking-wider font-semibold mb-1">{ex.label}</p>
+                          <div className="flex items-start justify-between gap-2">
+                            <div className="flex-1">
+                              <p className="text-base text-cyan-300 font-medium">{ex.chinese}</p>
+                              <p className="text-xs text-slate-400 mt-0.5">{ex.pinyin}</p>
+                              <p className="text-sm text-slate-300 mt-1">{ex.myanmar}</p>
+                            </div>
+                            <button
+                              onClick={(e) => handlePlayAudio(ex.chinese, e)}
+                              className="w-8 h-8 flex-shrink-0 flex items-center justify-center rounded-full bg-cyan-700/60 hover:bg-cyan-600 text-white transition-colors mt-0.5"
+                            >
+                              <Play className="w-3.5 h-3.5 ml-0.5" fill="currentColor" />
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                  {/* Work Examples */}
+                  <div>
+                    <p className="text-[10px] text-emerald-400 uppercase tracking-widest font-bold mb-2">အလုပ်ခွင်သုံး (Workplace)</p>
+                    <div className="space-y-2">
+                      {usage.work_examples.map((ex: { chinese: string; pinyin: string; myanmar: string }, i: number) => (
+                        <div key={i} className="bg-slate-900/50 rounded-lg p-3 border border-emerald-800/20">
+                          <div className="flex items-start justify-between gap-2">
+                            <div className="flex-1">
+                              <p className="text-base text-emerald-300 font-medium">{ex.chinese}</p>
+                              <p className="text-xs text-slate-400 mt-0.5">{ex.pinyin}</p>
+                              <p className="text-sm text-slate-300 mt-1">{ex.myanmar}</p>
+                            </div>
+                            <button
+                              onClick={(e) => handlePlayAudio(ex.chinese, e)}
+                              className="w-8 h-8 flex-shrink-0 flex items-center justify-center rounded-full bg-emerald-700/60 hover:bg-emerald-600 text-white transition-colors mt-0.5"
+                            >
+                              <Play className="w-3.5 h-3.5 ml-0.5" fill="currentColor" />
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        })()}
       </div>
     </div>
   );
