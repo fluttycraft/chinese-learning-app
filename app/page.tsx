@@ -218,7 +218,7 @@ export default function ChineseLearningApp() {
                   <div className="p-4 relative z-10">
                     <div className="flex items-center gap-3">
                       <span className="text-xs font-mono text-cyan-500/80 bg-cyan-950/30 px-2 py-1 rounded min-w-[2rem] text-center">
-                        {item.id.toString().padStart(2, "0")}
+                        {(index + 1).toString().padStart(2, "0")}
                       </span>
                       <div className="flex-1 min-w-0">
                         <p className={`text-xl font-bold tracking-wider transition-all duration-300 ${
